@@ -1,0 +1,1001 @@
+Transaction_ID,Book_Title,Author,Genre,ISBN,Publisher,Publication_Year,Language,Pages,Available_Copies,Total_Copies,User_ID,User_Name,Borrowing_Duration_Days,Date,Status
+1,Introduction to Algorithms,Thomas H. Cormen,Database,9780601973541,OReilly,2016,English,928,6,5,M777,Member_47,2025-01-28,2025-02-12,Returned
+2,Data Science Handbook,Andrew Ng,Database,9780783638886,Pearson,2019,English,1146,8,10,M507,Member_473,2025-02-20,2025-03-07,Issued
+3,Python Programming,Wayne Winston,Algorithms,9780491257108,MIT Press,2015,English,1036,8,5,M678,Member_391,2025-01-10,2025-01-25,Returned
+4,Web Development with Django,Andrew Ng,Data Science,9780913724358,Wiley,2019,English,330,3,5,M444,Member_267,2025-01-30,2025-02-14,Returned
+5,Python Programming,Andrew Ng,AI,9780687439597,Pearson,2021,English,341,1,5,M823,Member_374,2025-01-13,2025-01-28,Issued
+6,Machine Learning Guide,William Vincent,Web,9780154139363,Pearson,2020,English,471,5,7,M431,Member_367,2025-02-02,2025-02-17,Issued
+7,Python Programming,Jake VanderPlas,AI,9780618786729,Wiley,2019,English,918,10,6,M757,Member_163,2025-01-16,2025-01-31,Issued
+8,Machine Learning Guide,Ian Goodfellow,Algorithms,9780714773171,OReilly,2017,English,1118,9,11,M701,Member_163,2025-02-16,2025-03-03,Issued
+9,Machine Learning Guide,Thomas H. Cormen,Data Science,9780396011526,MIT Press,2017,English,843,2,6,M575,Member_277,2025-03-02,2025-03-17,Returned
+10,Introduction to Algorithms,John Smith,Programming,9780496512819,Pearson,2017,English,1078,3,15,M657,Member_310,2025-01-21,2025-02-05,Returned
+11,Operating System Concepts,John Smith,Algorithms,9780427128169,MIT Press,2021,English,263,7,8,M771,Member_181,2025-02-19,2025-03-06,Issued
+12,Artificial Intelligence Basics,Andrew Ng,Web,9780115334630,Wiley,2021,English,957,1,11,M386,Member_411,2025-01-31,2025-02-15,Returned
+13,SQL for Beginners,Stuart Russell,Programming,9780622363443,Wiley,2023,English,1113,8,6,M176,Member_317,2025-01-10,2025-01-25,Returned
+14,Web Development with Django,Ian Goodfellow,Programming,9780296904135,Microsoft Press,2020,English,815,9,7,M185,Member_68,2025-02-12,2025-02-27,Issued
+15,Introduction to Algorithms,Thomas H. Cormen,Programming,9780928115994,OReilly,2015,English,209,5,8,M154,Member_58,2025-01-29,2025-02-13,Returned
+16,Web Development with Django,Alan Beaulieu,Database,9780588236162,Microsoft Press,2017,English,893,2,5,M529,Member_128,2025-02-06,2025-02-21,Issued
+17,Excel for Data Analysis,Ian Goodfellow,Web,9780125045124,Wiley,2015,English,678,6,6,M344,Member_293,2025-02-07,2025-02-22,Returned
+18,Introduction to Algorithms,Stuart Russell,Data Science,9780828210898,Pearson,2015,English,369,7,15,M205,Member_484,2025-01-12,2025-01-27,Returned
+19,Artificial Intelligence Basics,Andrew Ng,AI,9780860818993,OReilly,2021,English,244,6,13,M867,Member_226,2025-01-03,2025-01-18,Returned
+20,Artificial Intelligence Basics,Thomas H. Cormen,Data Science,9780970367834,Pearson,2016,English,774,4,7,M680,Member_309,2025-02-05,2025-02-20,Issued
+21,Operating System Concepts,Alan Beaulieu,Algorithms,9780887054398,Pearson,2016,English,1136,5,9,M303,Member_8,2025-01-11,2025-01-26,Returned
+22,Data Science Handbook,Thomas H. Cormen,Programming,9780769784688,Pearson,2021,English,579,5,10,M426,Member_215,2025-01-21,2025-02-05,Returned
+23,Introduction to Algorithms,Andrew Ng,Programming,9780720781965,MIT Press,2017,English,284,5,11,M115,Member_461,2025-02-05,2025-02-20,Issued
+24,Excel for Data Analysis,Jake VanderPlas,Algorithms,9780128117129,MIT Press,2015,English,940,2,9,M796,Member_222,2025-01-07,2025-01-22,Returned
+25,Deep Learning Basics,Jake VanderPlas,Programming,9780323834688,Pearson,2023,English,871,2,13,M817,Member_115,2025-01-17,2025-02-01,Issued
+26,Artificial Intelligence Basics,Wayne Winston,AI,9780330637469,Microsoft Press,2023,English,1143,2,14,M126,Member_352,2025-01-05,2025-01-20,Returned
+27,Excel for Data Analysis,Ian Goodfellow,Database,9780845347054,Microsoft Press,2018,English,936,5,12,M416,Member_335,2025-01-27,2025-02-11,Returned
+28,Excel for Data Analysis,John Smith,Data Science,9780296525079,OReilly,2023,English,1099,8,7,M858,Member_105,2025-02-21,2025-03-08,Returned
+29,SQL for Beginners,Alan Beaulieu,Algorithms,9780922177025,Pearson,2019,English,435,7,8,M202,Member_1,2025-01-31,2025-02-15,Issued
+30,Data Science Handbook,Wayne Winston,Data Science,9780667599023,MIT Press,2021,English,908,2,15,M279,Member_448,2025-01-09,2025-01-24,Returned
+31,Introduction to Algorithms,Abraham Silberschatz,Data Science,9780898997022,Wiley,2023,English,1023,9,10,M875,Member_4,2025-01-05,2025-01-20,Returned
+32,Web Development with Django,Ian Goodfellow,Web,9780244940037,MIT Press,2022,English,860,0,15,M580,Member_18,2025-02-15,2025-03-02,Returned
+33,Artificial Intelligence Basics,Andrew Ng,Database,9780671982628,OReilly,2022,English,259,7,15,M353,Member_80,2025-02-25,2025-03-12,Issued
+34,Introduction to Algorithms,Wayne Winston,Web,9780365584974,Pearson,2020,English,454,8,13,M720,Member_109,2025-01-22,2025-02-06,Returned
+35,Python Programming,Ian Goodfellow,Database,9780970663644,Pearson,2018,English,602,6,5,M191,Member_127,2025-02-24,2025-03-11,Issued
+36,Python Programming,Ian Goodfellow,Programming,9780646047877,OReilly,2023,English,778,0,11,M982,Member_91,2025-02-19,2025-03-06,Returned
+37,Artificial Intelligence Basics,Wayne Winston,AI,9780163019366,MIT Press,2021,English,405,8,10,M236,Member_467,2025-01-24,2025-02-08,Returned
+38,Artificial Intelligence Basics,Alan Beaulieu,AI,9780787251458,Wiley,2015,English,886,3,15,M913,Member_43,2025-02-02,2025-02-17,Issued
+39,Data Science Handbook,John Smith,Programming,9780131607082,OReilly,2023,English,648,5,6,M858,Member_230,2025-02-11,2025-02-26,Returned
+40,Artificial Intelligence Basics,Jake VanderPlas,AI,9780739990473,Wiley,2020,English,530,9,12,M286,Member_340,2025-01-01,2025-01-16,Issued
+41,Operating System Concepts,Jake VanderPlas,Data Science,9780301867095,OReilly,2022,English,1017,3,13,M180,Member_131,2025-01-27,2025-02-11,Issued
+42,Introduction to Algorithms,William Vincent,Programming,9780949175688,MIT Press,2015,English,580,6,10,M305,Member_105,2025-02-20,2025-03-07,Returned
+43,Artificial Intelligence Basics,Thomas H. Cormen,Data Science,9780798467659,Pearson,2023,English,329,0,15,M502,Member_4,2025-02-16,2025-03-03,Issued
+44,Excel for Data Analysis,Ian Goodfellow,Programming,9780550217776,Microsoft Press,2020,English,367,1,6,M805,Member_170,2025-01-30,2025-02-14,Returned
+45,Operating System Concepts,Andrew Ng,Data Science,9780960232021,OReilly,2015,English,648,7,6,M493,Member_97,2025-01-14,2025-01-29,Returned
+46,Operating System Concepts,Wayne Winston,Data Science,9780165023367,Microsoft Press,2023,English,699,10,8,M715,Member_447,2025-01-27,2025-02-11,Issued
+47,Data Science Handbook,Jake VanderPlas,AI,9780948433720,MIT Press,2021,English,469,4,11,M142,Member_390,2025-01-22,2025-02-06,Returned
+48,Operating System Concepts,Alan Beaulieu,Programming,9780434474965,MIT Press,2018,English,441,8,9,M726,Member_52,2025-01-15,2025-01-30,Issued
+49,Python Programming,Alan Beaulieu,AI,9780150423527,OReilly,2017,English,1073,10,10,M766,Member_94,2025-02-27,2025-03-14,Returned
+50,Machine Learning Guide,Wayne Winston,Programming,9780132966022,OReilly,2017,English,431,8,14,M305,Member_83,2025-01-17,2025-02-01,Returned
+51,Excel for Data Analysis,Ian Goodfellow,Data Science,9780568591699,MIT Press,2020,English,1169,7,9,M960,Member_415,2025-02-17,2025-03-04,Issued
+52,Artificial Intelligence Basics,Andrew Ng,Data Science,9780735998784,MIT Press,2019,English,701,4,7,M890,Member_39,2025-02-13,2025-02-28,Issued
+53,Data Science Handbook,Jake VanderPlas,Web,9780320642657,Wiley,2023,English,1148,4,7,M972,Member_466,2025-01-18,2025-02-02,Issued
+54,Excel for Data Analysis,Wayne Winston,Database,9780181294408,OReilly,2020,English,288,5,15,M773,Member_138,2025-01-03,2025-01-18,Returned
+55,Introduction to Algorithms,Andrew Ng,Data Science,9780949272057,Microsoft Press,2019,English,633,0,5,M376,Member_111,2025-01-14,2025-01-29,Issued
+56,Deep Learning Basics,Andrew Ng,Data Science,9780912412611,Wiley,2017,English,902,0,10,M720,Member_487,2025-01-30,2025-02-14,Issued
+57,SQL for Beginners,Andrew Ng,Algorithms,9780727210216,Pearson,2019,English,448,4,8,M603,Member_335,2025-01-13,2025-01-28,Returned
+58,Excel for Data Analysis,Wayne Winston,AI,9780563680569,Pearson,2015,English,572,3,14,M159,Member_306,2025-01-11,2025-01-26,Issued
+59,Artificial Intelligence Basics,William Vincent,Database,9780903278466,Wiley,2021,English,748,8,15,M267,Member_22,2025-02-16,2025-03-03,Returned
+60,SQL for Beginners,Jake VanderPlas,Database,9780483359875,MIT Press,2020,English,593,1,5,M610,Member_499,2025-02-22,2025-03-09,Returned
+61,Python Programming,Stuart Russell,Web,9780954113662,Wiley,2019,English,812,6,7,M377,Member_109,2025-01-21,2025-02-05,Issued
+62,Deep Learning Basics,John Smith,Database,9780725323425,Pearson,2018,English,550,3,15,M160,Member_18,2025-02-24,2025-03-11,Returned
+63,Introduction to Algorithms,William Vincent,AI,9780155901246,Pearson,2023,English,694,4,12,M419,Member_361,2025-02-17,2025-03-04,Returned
+64,Deep Learning Basics,Wayne Winston,Database,9780251184089,Microsoft Press,2016,English,261,4,6,M144,Member_462,2025-03-01,2025-03-16,Issued
+65,Deep Learning Basics,Abraham Silberschatz,Web,9780720349708,Microsoft Press,2015,English,452,3,14,M477,Member_149,2025-01-26,2025-02-10,Returned
+66,Web Development with Django,Alan Beaulieu,Programming,9780713128506,MIT Press,2018,English,758,0,14,M265,Member_156,2025-02-05,2025-02-20,Issued
+67,Deep Learning Basics,John Smith,Web,9780910653778,MIT Press,2023,English,202,7,6,M588,Member_242,2025-02-14,2025-03-01,Returned
+68,Operating System Concepts,Thomas H. Cormen,Programming,9780403323737,MIT Press,2015,English,427,7,13,M475,Member_83,2025-01-02,2025-01-17,Issued
+69,Deep Learning Basics,William Vincent,Web,9780557761562,Microsoft Press,2022,English,641,4,12,M648,Member_311,2025-02-19,2025-03-06,Issued
+70,Operating System Concepts,John Smith,Algorithms,9780634952392,Wiley,2024,English,828,4,14,M313,Member_434,2025-01-14,2025-01-29,Issued
+71,Web Development with Django,Ian Goodfellow,Data Science,9780806598581,OReilly,2023,English,601,7,10,M559,Member_34,2025-01-03,2025-01-18,Issued
+72,Machine Learning Guide,Alan Beaulieu,AI,9780268517751,Wiley,2018,English,1196,6,12,M744,Member_109,2025-02-17,2025-03-04,Issued
+73,Excel for Data Analysis,Abraham Silberschatz,Algorithms,9780248218631,Microsoft Press,2021,English,556,3,8,M399,Member_185,2025-01-15,2025-01-30,Issued
+74,Excel for Data Analysis,Ian Goodfellow,Algorithms,9780758494465,MIT Press,2022,English,1129,9,12,M575,Member_490,2025-01-03,2025-01-18,Returned
+75,Artificial Intelligence Basics,Alan Beaulieu,Database,9780747738107,Pearson,2016,English,264,8,12,M578,Member_250,2025-02-15,2025-03-02,Returned
+76,Python Programming,John Smith,Programming,9780398418403,Microsoft Press,2019,English,323,0,10,M442,Member_18,2025-02-06,2025-02-21,Returned
+77,Introduction to Algorithms,Stuart Russell,Data Science,9780606581408,Wiley,2021,English,302,0,14,M766,Member_341,2025-01-24,2025-02-08,Issued
+78,Introduction to Algorithms,Jake VanderPlas,Algorithms,9780153236931,Microsoft Press,2022,English,290,1,7,M252,Member_410,2025-02-22,2025-03-09,Issued
+79,Excel for Data Analysis,Abraham Silberschatz,Data Science,9780558081625,Pearson,2022,English,410,10,8,M158,Member_432,2025-01-10,2025-01-25,Issued
+80,Web Development with Django,Jake VanderPlas,Programming,9780806527071,Wiley,2018,English,636,6,11,M762,Member_31,2025-01-20,2025-02-04,Returned
+81,Deep Learning Basics,Thomas H. Cormen,Database,9780589409228,OReilly,2024,English,1066,6,9,M476,Member_283,2025-01-03,2025-01-18,Returned
+82,SQL for Beginners,Alan Beaulieu,Algorithms,9780777651529,Wiley,2023,English,581,10,6,M658,Member_46,2025-01-10,2025-01-25,Returned
+83,Artificial Intelligence Basics,Alan Beaulieu,Algorithms,9780603273704,Pearson,2023,English,433,8,9,M892,Member_424,2025-01-04,2025-01-19,Issued
+84,SQL for Beginners,Thomas H. Cormen,Database,9780588379182,Wiley,2015,English,263,10,8,M565,Member_480,2025-01-05,2025-01-20,Issued
+85,Artificial Intelligence Basics,Andrew Ng,Programming,9780715224672,MIT Press,2024,English,378,6,13,M624,Member_446,2025-01-17,2025-02-01,Issued
+86,Deep Learning Basics,Ian Goodfellow,Web,9780352856021,Wiley,2016,English,273,5,5,M807,Member_323,2025-01-26,2025-02-10,Issued
+87,Introduction to Algorithms,Wayne Winston,Programming,9780500378466,OReilly,2020,English,1169,3,13,M997,Member_468,2025-02-15,2025-03-02,Returned
+88,Excel for Data Analysis,Thomas H. Cormen,Web,9780614769272,MIT Press,2015,English,851,6,10,M584,Member_105,2025-01-19,2025-02-03,Returned
+89,Operating System Concepts,John Smith,Programming,9780799159372,Microsoft Press,2022,English,663,4,14,M872,Member_21,2025-01-18,2025-02-02,Returned
+90,Machine Learning Guide,Thomas H. Cormen,Data Science,9780386228477,Microsoft Press,2024,English,820,10,14,M176,Member_353,2025-01-03,2025-01-18,Returned
+91,Artificial Intelligence Basics,Ian Goodfellow,Data Science,9780721422034,MIT Press,2016,English,866,6,10,M219,Member_263,2025-01-22,2025-02-06,Issued
+92,Artificial Intelligence Basics,Abraham Silberschatz,Database,9780212891660,Microsoft Press,2024,English,1109,7,9,M148,Member_480,2025-02-22,2025-03-09,Issued
+93,Artificial Intelligence Basics,Wayne Winston,Algorithms,9780654721129,Wiley,2022,English,649,9,7,M367,Member_149,2025-01-30,2025-02-14,Issued
+94,Artificial Intelligence Basics,John Smith,Web,9780796280196,Microsoft Press,2016,English,445,4,7,M827,Member_103,2025-01-04,2025-01-19,Returned
+95,Excel for Data Analysis,Alan Beaulieu,AI,9780841509397,Pearson,2018,English,871,8,12,M440,Member_58,2025-02-15,2025-03-02,Issued
+96,Machine Learning Guide,Alan Beaulieu,AI,9780121950219,Microsoft Press,2017,English,424,10,13,M514,Member_344,2025-01-04,2025-01-19,Returned
+97,Machine Learning Guide,Ian Goodfellow,Database,9780682848618,Microsoft Press,2021,English,724,4,9,M784,Member_70,2025-01-01,2025-01-16,Issued
+98,Python Programming,Thomas H. Cormen,Web,9780825298263,OReilly,2018,English,1000,3,6,M176,Member_354,2025-02-27,2025-03-14,Issued
+99,Deep Learning Basics,Wayne Winston,Database,9780585133476,Wiley,2022,English,973,9,5,M335,Member_93,2025-02-02,2025-02-17,Issued
+100,Python Programming,Thomas H. Cormen,Data Science,9780832446130,Wiley,2024,English,1173,7,15,M460,Member_385,2025-02-06,2025-02-21,Issued
+101,Artificial Intelligence Basics,Alan Beaulieu,AI,9780675862224,OReilly,2022,English,1129,6,14,M784,Member_431,2025-01-22,2025-02-06,Returned
+102,Introduction to Algorithms,William Vincent,Database,9780660947418,MIT Press,2018,English,430,2,5,M567,Member_14,2025-02-17,2025-03-04,Returned
+103,Excel for Data Analysis,Alan Beaulieu,Algorithms,9780273903551,Wiley,2024,English,856,8,15,M122,Member_251,2025-02-05,2025-02-20,Returned
+104,Operating System Concepts,Thomas H. Cormen,Database,9780647990364,Microsoft Press,2019,English,1124,3,9,M722,Member_316,2025-03-02,2025-03-17,Returned
+105,Artificial Intelligence Basics,Ian Goodfellow,Algorithms,9780473789278,Microsoft Press,2020,English,654,9,12,M177,Member_142,2025-02-27,2025-03-14,Issued
+106,Operating System Concepts,Andrew Ng,AI,9780492661541,Wiley,2019,English,619,9,8,M495,Member_293,2025-01-24,2025-02-08,Issued
+107,Deep Learning Basics,Wayne Winston,Algorithms,9780816914913,MIT Press,2020,English,376,4,6,M235,Member_199,2025-01-01,2025-01-16,Returned
+108,SQL for Beginners,Thomas H. Cormen,Web,9780939152034,MIT Press,2021,English,263,0,14,M307,Member_453,2025-02-15,2025-03-02,Returned
+109,Web Development with Django,Abraham Silberschatz,Database,9780410238855,Microsoft Press,2020,English,1187,5,7,M729,Member_484,2025-01-31,2025-02-15,Issued
+110,Data Science Handbook,Jake VanderPlas,Web,9780276259587,Pearson,2022,English,489,2,8,M698,Member_314,2025-01-14,2025-01-29,Returned
+111,Excel for Data Analysis,Wayne Winston,AI,9780152986603,Microsoft Press,2015,English,419,10,8,M611,Member_454,2025-01-02,2025-01-17,Issued
+112,Operating System Concepts,Andrew Ng,AI,9780177902118,MIT Press,2017,English,366,1,11,M592,Member_306,2025-01-17,2025-02-01,Returned
+113,Introduction to Algorithms,Wayne Winston,Data Science,9780116532045,MIT Press,2017,English,1116,1,9,M146,Member_324,2025-02-26,2025-03-13,Issued
+114,Artificial Intelligence Basics,Thomas H. Cormen,AI,9780245351923,Microsoft Press,2016,English,467,4,7,M129,Member_497,2025-02-18,2025-03-05,Issued
+115,Python Programming,Alan Beaulieu,Programming,9780338003253,Pearson,2015,English,929,5,7,M950,Member_372,2025-02-16,2025-03-03,Issued
+116,Artificial Intelligence Basics,Ian Goodfellow,Algorithms,9780863942175,Wiley,2016,English,838,2,14,M828,Member_76,2025-01-12,2025-01-27,Issued
+117,Machine Learning Guide,William Vincent,Web,9780218259503,MIT Press,2017,English,874,2,5,M921,Member_209,2025-02-22,2025-03-09,Issued
+118,Artificial Intelligence Basics,Abraham Silberschatz,Web,9780815646793,MIT Press,2020,English,657,2,7,M747,Member_61,2025-01-02,2025-01-17,Returned
+119,Data Science Handbook,Alan Beaulieu,AI,9780799838477,Microsoft Press,2020,English,812,2,8,M480,Member_444,2025-01-20,2025-02-04,Issued
+120,Artificial Intelligence Basics,Wayne Winston,Algorithms,9780645418202,OReilly,2022,English,884,6,14,M452,Member_370,2025-01-13,2025-01-28,Returned
+121,Data Science Handbook,Abraham Silberschatz,Web,9780243171817,Microsoft Press,2022,English,521,9,7,M444,Member_439,2025-02-19,2025-03-06,Issued
+122,Artificial Intelligence Basics,Abraham Silberschatz,Data Science,9780147566779,MIT Press,2021,English,655,7,15,M304,Member_182,2025-01-09,2025-01-24,Issued
+123,Web Development with Django,Ian Goodfellow,Web,9780454643987,Wiley,2021,English,307,6,6,M334,Member_386,2025-01-13,2025-01-28,Returned
+124,Artificial Intelligence Basics,John Smith,AI,9780377850149,Wiley,2021,English,1198,4,5,M609,Member_334,2025-01-13,2025-01-28,Returned
+125,Machine Learning Guide,John Smith,Web,9780777490135,Microsoft Press,2017,English,894,9,11,M931,Member_186,2025-01-28,2025-02-12,Issued
+126,Introduction to Algorithms,Ian Goodfellow,Web,9780243727331,Wiley,2015,English,443,8,13,M972,Member_10,2025-02-20,2025-03-07,Issued
+127,SQL for Beginners,Jake VanderPlas,Algorithms,9780913473021,Microsoft Press,2020,English,813,3,15,M882,Member_379,2025-02-01,2025-02-16,Returned
+128,Deep Learning Basics,Ian Goodfellow,Data Science,9780250740518,Wiley,2022,English,774,10,5,M816,Member_106,2025-01-04,2025-01-19,Issued
+129,Excel for Data Analysis,Ian Goodfellow,Algorithms,9780810409474,Microsoft Press,2021,English,1050,9,14,M537,Member_477,2025-01-06,2025-01-21,Issued
+130,Artificial Intelligence Basics,Andrew Ng,AI,9780117070406,OReilly,2017,English,1001,5,14,M760,Member_106,2025-02-26,2025-03-13,Returned
+131,Data Science Handbook,Thomas H. Cormen,Programming,9780668777502,Wiley,2022,English,799,7,9,M365,Member_448,2025-01-24,2025-02-08,Returned
+132,Python Programming,Stuart Russell,Programming,9780803666041,MIT Press,2020,English,490,4,7,M862,Member_352,2025-02-15,2025-03-02,Issued
+133,Web Development with Django,Jake VanderPlas,Web,9780357694085,OReilly,2016,English,790,2,14,M628,Member_255,2025-02-18,2025-03-05,Returned
+134,Operating System Concepts,Andrew Ng,Algorithms,9780280975076,OReilly,2016,English,980,1,8,M856,Member_353,2025-01-02,2025-01-17,Issued
+135,Excel for Data Analysis,William Vincent,AI,9780209243053,Wiley,2018,English,844,6,10,M488,Member_280,2025-03-01,2025-03-16,Issued
+136,Python Programming,William Vincent,Programming,9780672877434,Wiley,2019,English,780,7,9,M685,Member_348,2025-02-05,2025-02-20,Issued
+137,Machine Learning Guide,Jake VanderPlas,Data Science,9780693313353,Microsoft Press,2023,English,666,2,9,M129,Member_281,2025-01-17,2025-02-01,Returned
+138,Introduction to Algorithms,Thomas H. Cormen,Database,9780370763182,Pearson,2018,English,794,9,14,M867,Member_54,2025-01-02,2025-01-17,Issued
+139,Deep Learning Basics,Wayne Winston,Database,9780802190390,MIT Press,2020,English,1002,9,9,M424,Member_354,2025-02-01,2025-02-16,Issued
+140,Python Programming,Abraham Silberschatz,Web,9780444632678,OReilly,2020,English,1167,5,6,M270,Member_395,2025-02-23,2025-03-10,Issued
+141,Operating System Concepts,Wayne Winston,Web,9780415672816,Microsoft Press,2018,English,1167,0,12,M803,Member_419,2025-02-28,2025-03-15,Issued
+142,SQL for Beginners,William Vincent,Web,9780146326904,Pearson,2020,English,1175,5,8,M160,Member_398,2025-01-09,2025-01-24,Issued
+143,Data Science Handbook,William Vincent,Algorithms,9780556602490,Wiley,2020,English,458,0,13,M756,Member_15,2025-01-01,2025-01-16,Returned
+144,Operating System Concepts,Stuart Russell,Programming,9780406121303,Pearson,2019,English,678,5,14,M494,Member_433,2025-03-01,2025-03-16,Returned
+145,Introduction to Algorithms,Jake VanderPlas,AI,9780308462877,Pearson,2016,English,459,7,15,M833,Member_55,2025-03-02,2025-03-17,Returned
+146,SQL for Beginners,Jake VanderPlas,Programming,9780673980058,MIT Press,2023,English,1024,6,13,M620,Member_312,2025-01-17,2025-02-01,Returned
+147,Deep Learning Basics,Andrew Ng,AI,9780698702250,Pearson,2019,English,498,2,13,M872,Member_51,2025-02-11,2025-02-26,Issued
+148,Machine Learning Guide,Andrew Ng,Algorithms,9780537675320,MIT Press,2022,English,523,5,11,M700,Member_48,2025-01-24,2025-02-08,Returned
+149,Python Programming,Abraham Silberschatz,Web,9780632054915,OReilly,2018,English,410,5,14,M657,Member_159,2025-01-31,2025-02-15,Returned
+150,Excel for Data Analysis,Jake VanderPlas,Algorithms,9780381806188,Wiley,2015,English,588,4,15,M853,Member_455,2025-03-01,2025-03-16,Returned
+151,Web Development with Django,Jake VanderPlas,Database,9780439147677,Microsoft Press,2020,English,376,0,6,M495,Member_334,2025-02-08,2025-02-23,Returned
+152,Deep Learning Basics,John Smith,Algorithms,9780943597989,Microsoft Press,2021,English,214,0,9,M227,Member_156,2025-01-15,2025-01-30,Returned
+153,Introduction to Algorithms,Wayne Winston,AI,9780468896123,Wiley,2020,English,774,8,10,M705,Member_9,2025-01-02,2025-01-17,Issued
+154,Introduction to Algorithms,Stuart Russell,Web,9780684815446,Pearson,2018,English,517,7,13,M812,Member_265,2025-01-30,2025-02-14,Returned
+155,Deep Learning Basics,Wayne Winston,Algorithms,9780340975382,MIT Press,2020,English,565,7,11,M767,Member_344,2025-01-30,2025-02-14,Returned
+156,Machine Learning Guide,William Vincent,Algorithms,9780142925623,Microsoft Press,2017,English,1186,0,8,M664,Member_113,2025-02-25,2025-03-12,Issued
+157,SQL for Beginners,Andrew Ng,Programming,9780107362318,MIT Press,2016,English,1094,4,12,M534,Member_447,2025-01-28,2025-02-12,Issued
+158,Python Programming,Stuart Russell,AI,9780568869508,MIT Press,2019,English,1058,6,10,M669,Member_399,2025-01-31,2025-02-15,Returned
+159,Web Development with Django,William Vincent,Database,9780807111016,Pearson,2020,English,534,3,15,M415,Member_278,2025-01-09,2025-01-24,Returned
+160,SQL for Beginners,Stuart Russell,AI,9780870717733,Wiley,2024,English,380,5,12,M230,Member_66,2025-01-16,2025-01-31,Returned
+161,SQL for Beginners,Wayne Winston,AI,9780980733936,Microsoft Press,2022,English,480,9,9,M288,Member_427,2025-02-05,2025-02-20,Issued
+162,Artificial Intelligence Basics,Abraham Silberschatz,AI,9780725687569,Pearson,2020,English,1124,8,5,M130,Member_186,2025-02-17,2025-03-04,Issued
+163,SQL for Beginners,William Vincent,Algorithms,9780101924602,Wiley,2024,English,892,2,15,M614,Member_349,2025-01-29,2025-02-13,Issued
+164,Deep Learning Basics,Wayne Winston,Database,9780510273604,OReilly,2018,English,985,3,13,M589,Member_312,2025-02-01,2025-02-16,Issued
+165,Deep Learning Basics,John Smith,Data Science,9780879731126,OReilly,2018,English,792,1,9,M675,Member_126,2025-02-22,2025-03-09,Returned
+166,Introduction to Algorithms,Abraham Silberschatz,Programming,9780757005992,OReilly,2017,English,637,1,12,M756,Member_457,2025-01-21,2025-02-05,Issued
+167,Machine Learning Guide,Abraham Silberschatz,Web,9780724675735,MIT Press,2018,English,1189,1,10,M947,Member_82,2025-02-24,2025-03-11,Issued
+168,Artificial Intelligence Basics,Jake VanderPlas,AI,9780232845864,Microsoft Press,2016,English,941,5,9,M397,Member_397,2025-01-18,2025-02-02,Issued
+169,SQL for Beginners,Wayne Winston,Programming,9780728346121,Pearson,2019,English,960,0,7,M446,Member_280,2025-02-26,2025-03-13,Returned
+170,Deep Learning Basics,Andrew Ng,Programming,9780200139689,MIT Press,2018,English,679,5,9,M753,Member_66,2025-02-27,2025-03-14,Returned
+171,Excel for Data Analysis,Andrew Ng,Algorithms,9780158877359,MIT Press,2016,English,711,7,7,M428,Member_388,2025-01-07,2025-01-22,Returned
+172,Excel for Data Analysis,Andrew Ng,Programming,9780831456963,Pearson,2022,English,208,9,13,M785,Member_62,2025-01-01,2025-01-16,Returned
+173,Deep Learning Basics,Andrew Ng,AI,9780533783428,Microsoft Press,2018,English,1141,9,11,M664,Member_93,2025-01-18,2025-02-02,Issued
+174,Python Programming,Stuart Russell,AI,9780292357747,MIT Press,2020,English,483,8,12,M762,Member_173,2025-01-31,2025-02-15,Returned
+175,Data Science Handbook,Ian Goodfellow,Database,9780326764927,MIT Press,2024,English,435,1,5,M934,Member_66,2025-02-20,2025-03-07,Returned
+176,Operating System Concepts,Wayne Winston,Web,9780832009226,Microsoft Press,2024,English,452,0,5,M637,Member_38,2025-01-18,2025-02-02,Returned
+177,Python Programming,Wayne Winston,AI,9780348511268,Wiley,2020,English,1036,4,9,M713,Member_429,2025-02-18,2025-03-05,Returned
+178,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780160731647,Pearson,2021,English,472,3,12,M187,Member_19,2025-01-27,2025-02-11,Returned
+179,SQL for Beginners,Andrew Ng,Programming,9780931994480,Wiley,2016,English,845,10,11,M192,Member_481,2025-02-22,2025-03-09,Issued
+180,Data Science Handbook,John Smith,AI,9780347522866,Pearson,2023,English,474,5,15,M233,Member_487,2025-01-14,2025-01-29,Returned
+181,Web Development with Django,John Smith,Web,9780371175172,Microsoft Press,2017,English,863,3,15,M298,Member_144,2025-01-13,2025-01-28,Returned
+182,SQL for Beginners,John Smith,AI,9780304344669,MIT Press,2024,English,799,2,12,M254,Member_88,2025-02-04,2025-02-19,Issued
+183,Introduction to Algorithms,John Smith,Algorithms,9780546102877,Pearson,2022,English,553,1,6,M572,Member_145,2025-01-24,2025-02-08,Returned
+184,Web Development with Django,Jake VanderPlas,Algorithms,9780985192687,OReilly,2019,English,767,2,11,M835,Member_70,2025-01-17,2025-02-01,Returned
+185,Artificial Intelligence Basics,John Smith,Programming,9780129790568,OReilly,2016,English,443,1,7,M510,Member_405,2025-01-10,2025-01-25,Returned
+186,Operating System Concepts,Stuart Russell,Algorithms,9780982994631,MIT Press,2018,English,1151,4,15,M535,Member_108,2025-03-02,2025-03-17,Issued
+187,Python Programming,Ian Goodfellow,Web,9780672670704,OReilly,2019,English,438,2,11,M918,Member_170,2025-03-02,2025-03-17,Issued
+188,Deep Learning Basics,Wayne Winston,Algorithms,9780520950742,MIT Press,2022,English,681,9,12,M336,Member_81,2025-01-14,2025-01-29,Issued
+189,Artificial Intelligence Basics,Thomas H. Cormen,Data Science,9780489249459,Pearson,2017,English,787,6,5,M326,Member_486,2025-01-15,2025-01-30,Issued
+190,Data Science Handbook,Abraham Silberschatz,AI,9780705666397,MIT Press,2024,English,1079,10,7,M281,Member_148,2025-03-02,2025-03-17,Returned
+191,Python Programming,William Vincent,AI,9780290309966,MIT Press,2024,English,1165,10,12,M225,Member_345,2025-02-20,2025-03-07,Returned
+192,Data Science Handbook,Ian Goodfellow,Web,9780540947333,Microsoft Press,2024,English,857,1,8,M426,Member_105,2025-01-03,2025-01-18,Returned
+193,Introduction to Algorithms,Alan Beaulieu,Database,9780136542886,Wiley,2018,English,676,4,6,M811,Member_251,2025-02-18,2025-03-05,Returned
+194,Deep Learning Basics,Ian Goodfellow,Programming,9780638260363,MIT Press,2021,English,941,4,12,M268,Member_277,2025-02-05,2025-02-20,Returned
+195,Introduction to Algorithms,Andrew Ng,AI,9780437368593,Wiley,2022,English,784,5,8,M561,Member_370,2025-02-04,2025-02-19,Returned
+196,SQL for Beginners,William Vincent,Algorithms,9780912329579,MIT Press,2017,English,771,10,8,M800,Member_452,2025-02-15,2025-03-02,Returned
+197,Web Development with Django,Alan Beaulieu,Algorithms,9780876314762,Wiley,2020,English,899,2,9,M803,Member_5,2025-02-11,2025-02-26,Returned
+198,Machine Learning Guide,Andrew Ng,AI,9780899116573,Microsoft Press,2021,English,225,10,12,M270,Member_133,2025-02-17,2025-03-04,Issued
+199,Machine Learning Guide,Stuart Russell,AI,9780216534729,Wiley,2021,English,1118,0,12,M841,Member_258,2025-02-16,2025-03-03,Issued
+200,Excel for Data Analysis,Ian Goodfellow,Data Science,9780498006674,MIT Press,2019,English,1154,9,7,M953,Member_97,2025-01-05,2025-01-20,Returned
+201,SQL for Beginners,Andrew Ng,Web,9780273265865,OReilly,2022,English,1103,9,10,M136,Member_407,2025-02-08,2025-02-23,Returned
+202,Operating System Concepts,Abraham Silberschatz,Programming,9780991008092,Microsoft Press,2017,English,479,8,9,M168,Member_292,2025-02-12,2025-02-27,Returned
+203,Artificial Intelligence Basics,Andrew Ng,Web,9780632260134,Microsoft Press,2018,English,993,7,9,M395,Member_4,2025-02-23,2025-03-10,Issued
+204,Artificial Intelligence Basics,Thomas H. Cormen,Algorithms,9780321215008,MIT Press,2015,English,441,3,11,M261,Member_458,2025-01-13,2025-01-28,Issued
+205,Operating System Concepts,Ian Goodfellow,AI,9780630049304,Pearson,2019,English,800,2,15,M123,Member_268,2025-02-23,2025-03-10,Returned
+206,Web Development with Django,Wayne Winston,Database,9780698960528,Wiley,2018,English,992,0,7,M780,Member_182,2025-01-07,2025-01-22,Issued
+207,Machine Learning Guide,Alan Beaulieu,AI,9780267194027,OReilly,2021,English,959,2,14,M695,Member_49,2025-01-20,2025-02-04,Returned
+208,Python Programming,Thomas H. Cormen,Programming,9780604711945,Microsoft Press,2022,English,1105,3,8,M874,Member_24,2025-02-14,2025-03-01,Returned
+209,Artificial Intelligence Basics,Ian Goodfellow,AI,9780590457976,Wiley,2015,English,342,4,14,M493,Member_288,2025-02-10,2025-02-25,Returned
+210,Artificial Intelligence Basics,Abraham Silberschatz,Data Science,9780837955268,Pearson,2018,English,716,0,7,M337,Member_332,2025-01-07,2025-01-22,Issued
+211,Excel for Data Analysis,Alan Beaulieu,AI,9780607463751,Wiley,2020,English,402,5,5,M798,Member_403,2025-02-16,2025-03-03,Returned
+212,Operating System Concepts,John Smith,Programming,9780612332820,OReilly,2021,English,304,7,6,M326,Member_419,2025-02-02,2025-02-17,Issued
+213,Machine Learning Guide,Stuart Russell,Algorithms,9780348084787,Wiley,2019,English,490,6,9,M194,Member_131,2025-01-23,2025-02-07,Returned
+214,Python Programming,John Smith,Programming,9780193893359,Microsoft Press,2018,English,463,0,15,M581,Member_87,2025-02-10,2025-02-25,Returned
+215,SQL for Beginners,Ian Goodfellow,Programming,9780250055102,MIT Press,2016,English,300,5,8,M240,Member_495,2025-01-05,2025-01-20,Returned
+216,Data Science Handbook,Jake VanderPlas,AI,9780289634461,Microsoft Press,2019,English,685,9,7,M705,Member_202,2025-01-03,2025-01-18,Returned
+217,Excel for Data Analysis,Thomas H. Cormen,Algorithms,9780934747621,Microsoft Press,2020,English,1135,6,10,M719,Member_237,2025-02-03,2025-02-18,Returned
+218,Data Science Handbook,Andrew Ng,AI,9780453600134,MIT Press,2020,English,253,8,9,M459,Member_40,2025-01-03,2025-01-18,Returned
+219,Data Science Handbook,Alan Beaulieu,Database,9780592581537,Pearson,2021,English,985,4,6,M385,Member_290,2025-02-17,2025-03-04,Issued
+220,Introduction to Algorithms,Alan Beaulieu,Programming,9780974083717,Pearson,2015,English,1134,3,13,M675,Member_40,2025-01-07,2025-01-22,Issued
+221,Machine Learning Guide,Stuart Russell,Data Science,9780526140183,MIT Press,2015,English,615,8,13,M942,Member_486,2025-01-21,2025-02-05,Issued
+222,Web Development with Django,Stuart Russell,Database,9780439447579,OReilly,2019,English,1007,1,9,M467,Member_13,2025-01-12,2025-01-27,Issued
+223,Artificial Intelligence Basics,Alan Beaulieu,Database,9780725850150,Microsoft Press,2022,English,209,5,14,M974,Member_169,2025-01-14,2025-01-29,Issued
+224,Machine Learning Guide,Alan Beaulieu,Data Science,9780138491225,Pearson,2015,English,993,10,14,M236,Member_135,2025-01-02,2025-01-17,Returned
+225,Python Programming,Thomas H. Cormen,Algorithms,9780726561587,MIT Press,2017,English,604,1,6,M162,Member_415,2025-01-08,2025-01-23,Returned
+226,Web Development with Django,Stuart Russell,AI,9780597050161,OReilly,2015,English,1194,8,5,M119,Member_120,2025-02-23,2025-03-10,Issued
+227,Machine Learning Guide,William Vincent,Programming,9780362125739,OReilly,2021,English,1188,6,8,M237,Member_456,2025-01-13,2025-01-28,Issued
+228,Operating System Concepts,Ian Goodfellow,Data Science,9780499135317,Microsoft Press,2022,English,533,6,10,M778,Member_280,2025-01-08,2025-01-23,Returned
+229,Artificial Intelligence Basics,Stuart Russell,Web,9780715304480,MIT Press,2020,English,424,8,9,M923,Member_357,2025-01-06,2025-01-21,Issued
+230,Python Programming,Andrew Ng,AI,9780667321840,Microsoft Press,2017,English,741,8,5,M578,Member_232,2025-01-12,2025-01-27,Issued
+231,Operating System Concepts,Abraham Silberschatz,Web,9780192428058,MIT Press,2022,English,248,4,13,M558,Member_37,2025-01-21,2025-02-05,Issued
+232,Introduction to Algorithms,Wayne Winston,Database,9780750832765,Pearson,2022,English,1073,9,5,M205,Member_79,2025-01-09,2025-01-24,Returned
+233,SQL for Beginners,Ian Goodfellow,Database,9780443150612,Microsoft Press,2020,English,636,10,14,M203,Member_197,2025-02-19,2025-03-06,Returned
+234,Introduction to Algorithms,Thomas H. Cormen,Data Science,9780598630130,Wiley,2024,English,432,10,14,M643,Member_54,2025-01-31,2025-02-15,Returned
+235,Web Development with Django,Ian Goodfellow,AI,9780963306961,MIT Press,2024,English,689,4,11,M444,Member_1,2025-02-08,2025-02-23,Returned
+236,Python Programming,Andrew Ng,Programming,9780756342798,MIT Press,2018,English,1135,7,5,M213,Member_311,2025-01-04,2025-01-19,Issued
+237,SQL for Beginners,William Vincent,Web,9780339226004,Pearson,2015,English,353,1,10,M906,Member_44,2025-01-28,2025-02-12,Issued
+238,SQL for Beginners,Wayne Winston,Data Science,9780361427722,OReilly,2021,English,1064,10,13,M508,Member_277,2025-01-23,2025-02-07,Returned
+239,Web Development with Django,Andrew Ng,Data Science,9780664064969,Microsoft Press,2019,English,390,9,9,M334,Member_203,2025-01-02,2025-01-17,Returned
+240,Data Science Handbook,Alan Beaulieu,Algorithms,9780709986704,OReilly,2019,English,571,6,14,M882,Member_147,2025-01-13,2025-01-28,Issued
+241,Data Science Handbook,Andrew Ng,AI,9780759563802,Microsoft Press,2015,English,887,4,15,M645,Member_361,2025-01-01,2025-01-16,Issued
+242,SQL for Beginners,Stuart Russell,AI,9780810069217,Pearson,2024,English,873,8,13,M187,Member_440,2025-01-04,2025-01-19,Issued
+243,Data Science Handbook,Ian Goodfellow,Programming,9780218969012,Pearson,2017,English,619,9,14,M837,Member_174,2025-02-20,2025-03-07,Returned
+244,Excel for Data Analysis,Jake VanderPlas,Web,9780156718982,Pearson,2019,English,531,9,11,M403,Member_9,2025-02-14,2025-03-01,Returned
+245,Python Programming,Ian Goodfellow,AI,9780530739888,Wiley,2015,English,269,0,11,M697,Member_120,2025-02-28,2025-03-15,Returned
+246,Operating System Concepts,Ian Goodfellow,AI,9780514396749,Pearson,2020,English,1140,9,12,M531,Member_303,2025-01-13,2025-01-28,Returned
+247,SQL for Beginners,Andrew Ng,Algorithms,9780569588922,Wiley,2023,English,457,0,14,M480,Member_452,2025-01-24,2025-02-08,Issued
+248,Deep Learning Basics,Stuart Russell,Algorithms,9780804499832,Microsoft Press,2020,English,976,4,14,M342,Member_177,2025-01-26,2025-02-10,Returned
+249,Web Development with Django,Abraham Silberschatz,AI,9780629449741,Wiley,2019,English,719,6,7,M209,Member_481,2025-01-03,2025-01-18,Issued
+250,Deep Learning Basics,John Smith,AI,9780551804962,OReilly,2022,English,376,4,15,M453,Member_65,2025-01-04,2025-01-19,Returned
+251,SQL for Beginners,John Smith,Algorithms,9780861550173,OReilly,2024,English,1115,10,10,M919,Member_470,2025-02-07,2025-02-22,Returned
+252,Machine Learning Guide,Thomas H. Cormen,Web,9780653107626,Wiley,2015,English,261,0,14,M262,Member_149,2025-01-03,2025-01-18,Returned
+253,Machine Learning Guide,William Vincent,Database,9780383968652,Wiley,2016,English,412,3,12,M950,Member_226,2025-01-04,2025-01-19,Issued
+254,Machine Learning Guide,William Vincent,Programming,9780962744615,OReilly,2021,English,880,10,9,M591,Member_174,2025-03-02,2025-03-17,Returned
+255,Web Development with Django,Ian Goodfellow,Algorithms,9780608398036,Microsoft Press,2015,English,805,0,8,M828,Member_415,2025-02-06,2025-02-21,Returned
+256,Python Programming,Thomas H. Cormen,Programming,9780126286010,Pearson,2021,English,489,3,11,M312,Member_343,2025-01-26,2025-02-10,Returned
+257,Artificial Intelligence Basics,Ian Goodfellow,Programming,9780214777535,Microsoft Press,2017,English,1060,9,9,M679,Member_102,2025-02-25,2025-03-12,Issued
+258,Deep Learning Basics,Thomas H. Cormen,AI,9780210530180,OReilly,2016,English,1010,0,9,M382,Member_429,2025-01-02,2025-01-17,Issued
+259,Introduction to Algorithms,Andrew Ng,Algorithms,9780499099235,MIT Press,2015,English,719,6,14,M426,Member_158,2025-02-13,2025-02-28,Issued
+260,Excel for Data Analysis,Wayne Winston,AI,9780910433588,Pearson,2020,English,858,9,6,M909,Member_258,2025-01-12,2025-01-27,Issued
+261,Web Development with Django,Andrew Ng,Programming,9780787185808,Microsoft Press,2022,English,328,3,14,M537,Member_130,2025-01-19,2025-02-03,Issued
+262,Artificial Intelligence Basics,Stuart Russell,Programming,9780598426199,Pearson,2019,English,1097,6,11,M516,Member_136,2025-02-23,2025-03-10,Issued
+263,SQL for Beginners,Wayne Winston,Programming,9780817367859,MIT Press,2019,English,818,7,13,M282,Member_71,2025-02-28,2025-03-15,Returned
+264,Excel for Data Analysis,Wayne Winston,Data Science,9780600720725,MIT Press,2015,English,932,3,12,M377,Member_338,2025-01-03,2025-01-18,Issued
+265,Artificial Intelligence Basics,Jake VanderPlas,Database,9780888615479,MIT Press,2021,English,1153,0,10,M462,Member_465,2025-01-04,2025-01-19,Returned
+266,Machine Learning Guide,John Smith,Database,9780834673886,Wiley,2023,English,652,3,7,M281,Member_335,2025-01-08,2025-01-23,Issued
+267,Operating System Concepts,Abraham Silberschatz,Web,9780815629481,Pearson,2024,English,1146,10,9,M840,Member_178,2025-02-23,2025-03-10,Issued
+268,Artificial Intelligence Basics,Wayne Winston,Database,9780396506989,Wiley,2020,English,679,3,9,M607,Member_89,2025-02-03,2025-02-18,Issued
+269,Introduction to Algorithms,Thomas H. Cormen,Algorithms,9780189648338,Microsoft Press,2016,English,647,10,7,M799,Member_436,2025-02-08,2025-02-23,Issued
+270,SQL for Beginners,William Vincent,Data Science,9780937711778,Microsoft Press,2024,English,833,2,5,M281,Member_21,2025-02-06,2025-02-21,Returned
+271,Operating System Concepts,Wayne Winston,AI,9780649884315,Wiley,2016,English,1137,6,14,M190,Member_162,2025-02-04,2025-02-19,Issued
+272,Introduction to Algorithms,Stuart Russell,AI,9780679345261,Wiley,2024,English,638,7,11,M744,Member_83,2025-01-11,2025-01-26,Issued
+273,Machine Learning Guide,Jake VanderPlas,AI,9780181228054,OReilly,2024,English,1121,5,7,M427,Member_497,2025-01-27,2025-02-11,Returned
+274,Operating System Concepts,Thomas H. Cormen,Data Science,9780594895276,Wiley,2018,English,432,3,15,M614,Member_200,2025-02-28,2025-03-15,Issued
+275,Machine Learning Guide,Abraham Silberschatz,AI,9780872178225,Wiley,2015,English,211,7,15,M244,Member_9,2025-01-29,2025-02-13,Returned
+276,Deep Learning Basics,John Smith,Programming,9780224314336,MIT Press,2016,English,947,9,5,M328,Member_287,2025-01-24,2025-02-08,Issued
+277,SQL for Beginners,Jake VanderPlas,AI,9780566845226,OReilly,2017,English,1036,1,9,M781,Member_430,2025-02-09,2025-02-24,Issued
+278,Excel for Data Analysis,Stuart Russell,Algorithms,9780658613608,Microsoft Press,2022,English,747,5,5,M442,Member_377,2025-01-30,2025-02-14,Issued
+279,Operating System Concepts,Alan Beaulieu,Data Science,9780106880347,Wiley,2016,English,658,7,10,M335,Member_352,2025-02-15,2025-03-02,Returned
+280,Web Development with Django,Ian Goodfellow,Data Science,9780985647430,OReilly,2017,English,1115,9,14,M286,Member_378,2025-02-16,2025-03-03,Returned
+281,Data Science Handbook,Thomas H. Cormen,Database,9780689886888,Wiley,2016,English,1026,2,13,M951,Member_290,2025-01-04,2025-01-19,Returned
+282,Web Development with Django,William Vincent,Web,9780441056038,MIT Press,2024,English,429,4,5,M485,Member_57,2025-02-28,2025-03-15,Returned
+283,Excel for Data Analysis,Wayne Winston,Algorithms,9780994556640,Wiley,2017,English,1102,8,11,M496,Member_300,2025-02-07,2025-02-22,Issued
+284,Artificial Intelligence Basics,William Vincent,Programming,9780550412816,Wiley,2022,English,976,10,7,M569,Member_239,2025-01-31,2025-02-15,Issued
+285,Artificial Intelligence Basics,Jake VanderPlas,Data Science,9780782887855,Wiley,2018,English,826,2,5,M872,Member_255,2025-01-09,2025-01-24,Issued
+286,Excel for Data Analysis,Andrew Ng,Programming,9780163025406,OReilly,2016,English,244,3,6,M158,Member_435,2025-01-17,2025-02-01,Returned
+287,Introduction to Algorithms,Thomas H. Cormen,AI,9780371438788,Microsoft Press,2015,English,474,0,7,M364,Member_414,2025-02-23,2025-03-10,Returned
+288,SQL for Beginners,Andrew Ng,AI,9780399186504,Wiley,2015,English,478,2,13,M771,Member_31,2025-01-07,2025-01-22,Returned
+289,Web Development with Django,Abraham Silberschatz,Web,9780139154023,Pearson,2017,English,454,7,14,M745,Member_298,2025-02-20,2025-03-07,Issued
+290,Operating System Concepts,Stuart Russell,Data Science,9780816182660,Microsoft Press,2023,English,1125,8,7,M240,Member_11,2025-02-25,2025-03-12,Issued
+291,Artificial Intelligence Basics,Ian Goodfellow,Web,9780402892034,MIT Press,2018,English,619,1,9,M355,Member_463,2025-01-11,2025-01-26,Returned
+292,Artificial Intelligence Basics,Jake VanderPlas,Data Science,9780650895327,Pearson,2024,English,832,7,5,M925,Member_216,2025-02-10,2025-02-25,Returned
+293,Data Science Handbook,William Vincent,AI,9780439739064,Microsoft Press,2024,English,566,10,12,M794,Member_427,2025-02-18,2025-03-05,Returned
+294,Operating System Concepts,Jake VanderPlas,Database,9780924309279,Wiley,2020,English,588,7,6,M866,Member_101,2025-02-03,2025-02-18,Returned
+295,Operating System Concepts,Thomas H. Cormen,Data Science,9780258915747,MIT Press,2016,English,1158,6,8,M181,Member_235,2025-01-09,2025-01-24,Returned
+296,Deep Learning Basics,Ian Goodfellow,Database,9780605289935,Microsoft Press,2015,English,1021,2,9,M230,Member_22,2025-01-20,2025-02-04,Returned
+297,Python Programming,Jake VanderPlas,Algorithms,9780208636531,Microsoft Press,2015,English,385,10,12,M374,Member_416,2025-02-24,2025-03-11,Returned
+298,Machine Learning Guide,Ian Goodfellow,Programming,9780524272590,Pearson,2016,English,1141,0,6,M236,Member_374,2025-02-12,2025-02-27,Issued
+299,Deep Learning Basics,Stuart Russell,Programming,9780461953487,Microsoft Press,2024,English,927,0,8,M115,Member_143,2025-01-22,2025-02-06,Issued
+300,Operating System Concepts,Alan Beaulieu,Programming,9780283241748,MIT Press,2017,English,389,7,9,M239,Member_232,2025-01-24,2025-02-08,Issued
+301,Deep Learning Basics,Jake VanderPlas,Data Science,9780277347147,MIT Press,2015,English,876,3,8,M437,Member_103,2025-02-18,2025-03-05,Returned
+302,Operating System Concepts,Stuart Russell,Database,9780317808338,Wiley,2015,English,756,6,15,M734,Member_239,2025-02-02,2025-02-17,Returned
+303,Data Science Handbook,Abraham Silberschatz,Database,9780280888003,Microsoft Press,2020,English,659,9,12,M133,Member_53,2025-01-18,2025-02-02,Returned
+304,Python Programming,William Vincent,Database,9780563764388,OReilly,2022,English,1169,0,9,M998,Member_196,2025-02-20,2025-03-07,Issued
+305,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780295916837,OReilly,2016,English,245,1,8,M466,Member_150,2025-01-15,2025-01-30,Returned
+306,Introduction to Algorithms,John Smith,Data Science,9780670002306,Microsoft Press,2023,English,381,0,6,M862,Member_474,2025-01-13,2025-01-28,Issued
+307,Artificial Intelligence Basics,Jake VanderPlas,AI,9780261576593,OReilly,2015,English,766,4,14,M585,Member_185,2025-02-07,2025-02-22,Issued
+308,Machine Learning Guide,Alan Beaulieu,Data Science,9780497217440,Microsoft Press,2021,English,979,6,13,M453,Member_165,2025-02-12,2025-02-27,Returned
+309,SQL for Beginners,Alan Beaulieu,Data Science,9780271198680,MIT Press,2018,English,342,0,15,M657,Member_301,2025-02-17,2025-03-04,Issued
+310,SQL for Beginners,Thomas H. Cormen,AI,9780513746621,OReilly,2020,English,1081,7,13,M914,Member_379,2025-01-30,2025-02-14,Issued
+311,Deep Learning Basics,Thomas H. Cormen,Data Science,9780841560418,MIT Press,2024,English,570,10,7,M429,Member_40,2025-03-01,2025-03-16,Issued
+312,Deep Learning Basics,Jake VanderPlas,Programming,9780100818611,Microsoft Press,2022,English,957,10,14,M899,Member_336,2025-01-12,2025-01-27,Returned
+313,Artificial Intelligence Basics,Ian Goodfellow,Web,9780157016982,Wiley,2015,English,640,10,15,M897,Member_496,2025-01-05,2025-01-20,Issued
+314,Data Science Handbook,John Smith,Data Science,9780608504676,MIT Press,2023,English,842,8,5,M826,Member_61,2025-01-03,2025-01-18,Returned
+315,Machine Learning Guide,Abraham Silberschatz,Data Science,9780969656188,OReilly,2017,English,1097,1,7,M647,Member_15,2025-01-08,2025-01-23,Issued
+316,Machine Learning Guide,Stuart Russell,Programming,9780868678972,Wiley,2020,English,857,2,7,M942,Member_72,2025-02-20,2025-03-07,Issued
+317,Excel for Data Analysis,Thomas H. Cormen,AI,9780352950275,Wiley,2021,English,237,1,15,M528,Member_285,2025-01-25,2025-02-09,Issued
+318,Web Development with Django,William Vincent,Programming,9780898604677,OReilly,2023,English,1092,0,6,M189,Member_245,2025-01-25,2025-02-09,Returned
+319,Introduction to Algorithms,Alan Beaulieu,Database,9780419319140,Wiley,2021,English,309,8,15,M454,Member_334,2025-01-04,2025-01-19,Issued
+320,Machine Learning Guide,Abraham Silberschatz,Programming,9780643107444,Wiley,2019,English,308,9,11,M794,Member_255,2025-01-30,2025-02-14,Returned
+321,Web Development with Django,Abraham Silberschatz,Web,9780760865353,Pearson,2024,English,950,4,10,M742,Member_49,2025-02-21,2025-03-08,Returned
+322,Introduction to Algorithms,Wayne Winston,AI,9780791916679,MIT Press,2020,English,711,3,8,M651,Member_262,2025-02-08,2025-02-23,Issued
+323,Excel for Data Analysis,Alan Beaulieu,Algorithms,9780606894481,Wiley,2020,English,1057,4,11,M647,Member_143,2025-02-15,2025-03-02,Issued
+324,Machine Learning Guide,Abraham Silberschatz,Database,9780236794489,Wiley,2016,English,1177,10,8,M566,Member_39,2025-02-07,2025-02-22,Returned
+325,Excel for Data Analysis,Alan Beaulieu,Database,9780663413759,OReilly,2017,English,210,4,6,M278,Member_37,2025-01-27,2025-02-11,Issued
+326,Artificial Intelligence Basics,William Vincent,Data Science,9780345579553,Pearson,2015,English,458,1,6,M854,Member_61,2025-02-28,2025-03-15,Returned
+327,Web Development with Django,Stuart Russell,Algorithms,9780246626946,Wiley,2019,English,233,6,14,M232,Member_200,2025-02-10,2025-02-25,Issued
+328,Data Science Handbook,Stuart Russell,Programming,9780659008817,OReilly,2021,English,669,6,13,M276,Member_100,2025-02-20,2025-03-07,Issued
+329,Python Programming,Andrew Ng,Algorithms,9780741715592,Pearson,2024,English,673,10,13,M954,Member_467,2025-02-27,2025-03-14,Issued
+330,Excel for Data Analysis,Abraham Silberschatz,Web,9780547571646,Wiley,2018,English,1079,10,11,M228,Member_8,2025-02-21,2025-03-08,Issued
+331,Python Programming,Ian Goodfellow,Database,9780705577449,Pearson,2022,English,321,8,8,M155,Member_209,2025-01-01,2025-01-16,Returned
+332,Introduction to Algorithms,Stuart Russell,Programming,9780294944538,Microsoft Press,2022,English,1146,0,8,M642,Member_485,2025-02-22,2025-03-09,Issued
+333,Artificial Intelligence Basics,Abraham Silberschatz,Programming,9780691102165,Pearson,2021,English,370,2,9,M839,Member_44,2025-02-09,2025-02-24,Returned
+334,Artificial Intelligence Basics,Alan Beaulieu,AI,9780100645800,OReilly,2023,English,486,9,8,M748,Member_265,2025-02-18,2025-03-05,Issued
+335,Python Programming,Wayne Winston,Data Science,9780860414818,Microsoft Press,2021,English,349,2,10,M241,Member_492,2025-02-20,2025-03-07,Returned
+336,Deep Learning Basics,Wayne Winston,Algorithms,9780213126163,Wiley,2024,English,921,1,11,M570,Member_219,2025-02-18,2025-03-05,Returned
+337,Excel for Data Analysis,William Vincent,AI,9780426772741,OReilly,2024,English,329,0,7,M515,Member_258,2025-02-11,2025-02-26,Issued
+338,Introduction to Algorithms,Alan Beaulieu,Programming,9780289873291,MIT Press,2016,English,1131,6,6,M625,Member_269,2025-01-19,2025-02-03,Issued
+339,Machine Learning Guide,John Smith,Database,9780410292037,OReilly,2023,English,1030,9,13,M985,Member_163,2025-01-12,2025-01-27,Returned
+340,Introduction to Algorithms,Wayne Winston,Programming,9780379459673,Pearson,2018,English,952,8,13,M151,Member_24,2025-02-27,2025-03-14,Issued
+341,Introduction to Algorithms,Abraham Silberschatz,Web,9780455446151,OReilly,2016,English,671,10,5,M223,Member_347,2025-01-06,2025-01-21,Issued
+342,Operating System Concepts,Stuart Russell,AI,9780849222826,Wiley,2020,English,689,5,7,M334,Member_418,2025-02-14,2025-03-01,Issued
+343,Deep Learning Basics,Abraham Silberschatz,Web,9780618471925,MIT Press,2018,English,699,2,14,M717,Member_344,2025-02-02,2025-02-17,Issued
+344,Introduction to Algorithms,William Vincent,Web,9780204173845,Microsoft Press,2018,English,299,3,8,M570,Member_187,2025-03-02,2025-03-17,Returned
+345,Machine Learning Guide,Andrew Ng,Algorithms,9780760999680,Wiley,2020,English,929,5,8,M982,Member_251,2025-02-19,2025-03-06,Issued
+346,Artificial Intelligence Basics,Ian Goodfellow,Database,9780878082172,OReilly,2015,English,700,9,7,M846,Member_468,2025-01-31,2025-02-15,Returned
+347,SQL for Beginners,Abraham Silberschatz,Programming,9780125406693,MIT Press,2020,English,1085,9,11,M978,Member_388,2025-02-03,2025-02-18,Issued
+348,Data Science Handbook,Ian Goodfellow,Algorithms,9780146483872,MIT Press,2018,English,857,2,10,M764,Member_284,2025-02-23,2025-03-10,Issued
+349,Data Science Handbook,Andrew Ng,Database,9780270476840,Microsoft Press,2016,English,393,7,12,M863,Member_183,2025-02-12,2025-02-27,Returned
+350,SQL for Beginners,Abraham Silberschatz,Algorithms,9780901745945,Microsoft Press,2017,English,432,0,10,M434,Member_137,2025-01-21,2025-02-05,Issued
+351,SQL for Beginners,William Vincent,Database,9780758202015,MIT Press,2021,English,1193,10,12,M200,Member_381,2025-01-22,2025-02-06,Issued
+352,Excel for Data Analysis,Jake VanderPlas,Data Science,9780580957864,Microsoft Press,2020,English,349,5,6,M832,Member_297,2025-02-22,2025-03-09,Issued
+353,Excel for Data Analysis,Andrew Ng,Algorithms,9780779635960,MIT Press,2019,English,1120,2,15,M519,Member_75,2025-01-10,2025-01-25,Issued
+354,Artificial Intelligence Basics,John Smith,Algorithms,9780987597550,Pearson,2020,English,468,6,12,M953,Member_409,2025-02-28,2025-03-15,Returned
+355,Introduction to Algorithms,Alan Beaulieu,Database,9780180903981,Pearson,2019,English,884,1,12,M703,Member_92,2025-01-17,2025-02-01,Issued
+356,Artificial Intelligence Basics,Stuart Russell,Database,9780650280601,Pearson,2017,English,732,3,6,M528,Member_347,2025-02-23,2025-03-10,Issued
+357,Python Programming,Stuart Russell,Algorithms,9780760101796,Microsoft Press,2022,English,778,4,6,M321,Member_314,2025-02-28,2025-03-15,Issued
+358,Data Science Handbook,William Vincent,AI,9780166723884,MIT Press,2016,English,1148,6,10,M264,Member_121,2025-01-18,2025-02-02,Issued
+359,Deep Learning Basics,William Vincent,AI,9780688503599,Microsoft Press,2018,English,574,8,8,M347,Member_336,2025-01-13,2025-01-28,Returned
+360,Data Science Handbook,Stuart Russell,AI,9780640877916,Microsoft Press,2018,English,650,10,13,M339,Member_9,2025-02-22,2025-03-09,Returned
+361,Python Programming,Ian Goodfellow,Algorithms,9780506003639,MIT Press,2017,English,547,2,10,M462,Member_88,2025-02-09,2025-02-24,Returned
+362,Artificial Intelligence Basics,Ian Goodfellow,Database,9780542942363,MIT Press,2015,English,350,9,11,M417,Member_213,2025-01-04,2025-01-19,Returned
+363,Machine Learning Guide,Thomas H. Cormen,Data Science,9780257476164,Microsoft Press,2023,English,529,2,5,M497,Member_123,2025-02-24,2025-03-11,Returned
+364,Deep Learning Basics,Andrew Ng,Data Science,9780470855295,Pearson,2019,English,724,5,9,M274,Member_142,2025-02-13,2025-02-28,Returned
+365,Excel for Data Analysis,Alan Beaulieu,Algorithms,9780376851360,Wiley,2018,English,487,6,7,M982,Member_267,2025-01-13,2025-01-28,Returned
+366,Data Science Handbook,Stuart Russell,AI,9780808454064,MIT Press,2021,English,1085,8,7,M744,Member_65,2025-01-23,2025-02-07,Issued
+367,Python Programming,Abraham Silberschatz,Data Science,9780821163565,Wiley,2024,English,594,5,10,M435,Member_276,2025-02-13,2025-02-28,Issued
+368,Introduction to Algorithms,Wayne Winston,Algorithms,9780847347958,Wiley,2024,English,706,5,12,M524,Member_57,2025-01-30,2025-02-14,Returned
+369,Operating System Concepts,Stuart Russell,Algorithms,9780497908086,Pearson,2022,English,972,8,12,M588,Member_180,2025-01-14,2025-01-29,Issued
+370,Machine Learning Guide,Ian Goodfellow,Web,9780813881136,Wiley,2018,English,1108,2,11,M985,Member_55,2025-01-21,2025-02-05,Issued
+371,Deep Learning Basics,Stuart Russell,AI,9780161064685,OReilly,2024,English,449,1,11,M905,Member_170,2025-01-28,2025-02-12,Returned
+372,Artificial Intelligence Basics,Alan Beaulieu,Data Science,9780702898309,OReilly,2020,English,781,10,5,M120,Member_345,2025-02-18,2025-03-05,Returned
+373,Deep Learning Basics,Thomas H. Cormen,Programming,9780671171644,MIT Press,2022,English,759,9,12,M902,Member_358,2025-02-17,2025-03-04,Issued
+374,Python Programming,Andrew Ng,AI,9780337094938,Microsoft Press,2023,English,860,1,5,M686,Member_392,2025-01-22,2025-02-06,Issued
+375,Excel for Data Analysis,Stuart Russell,AI,9780328511068,MIT Press,2022,English,1077,3,9,M988,Member_140,2025-02-24,2025-03-11,Issued
+376,Operating System Concepts,Alan Beaulieu,Algorithms,9780224403898,Microsoft Press,2017,English,758,7,10,M243,Member_72,2025-02-11,2025-02-26,Issued
+377,SQL for Beginners,Stuart Russell,Web,9780421453902,MIT Press,2022,English,731,6,7,M836,Member_285,2025-01-14,2025-01-29,Returned
+378,Introduction to Algorithms,Abraham Silberschatz,Web,9780218985331,OReilly,2015,English,232,5,10,M959,Member_409,2025-02-17,2025-03-04,Issued
+379,Artificial Intelligence Basics,William Vincent,Database,9780697941114,Wiley,2017,English,845,3,6,M747,Member_103,2025-01-23,2025-02-07,Returned
+380,Excel for Data Analysis,Andrew Ng,Algorithms,9780391501692,Microsoft Press,2022,English,869,8,14,M122,Member_155,2025-01-20,2025-02-04,Returned
+381,Machine Learning Guide,Abraham Silberschatz,Database,9780911768480,Pearson,2017,English,425,0,8,M434,Member_326,2025-01-06,2025-01-21,Issued
+382,Excel for Data Analysis,Alan Beaulieu,Data Science,9780346252911,OReilly,2020,English,937,9,7,M359,Member_446,2025-01-05,2025-01-20,Returned
+383,Machine Learning Guide,William Vincent,Web,9780366686732,Pearson,2015,English,490,3,8,M742,Member_319,2025-03-01,2025-03-16,Returned
+384,Operating System Concepts,Jake VanderPlas,Programming,9780447988051,Microsoft Press,2018,English,871,6,5,M207,Member_469,2025-02-05,2025-02-20,Returned
+385,Python Programming,William Vincent,AI,9780977096514,Wiley,2015,English,931,8,11,M269,Member_366,2025-02-06,2025-02-21,Returned
+386,Deep Learning Basics,Thomas H. Cormen,Data Science,9780340985467,Wiley,2020,English,610,2,5,M754,Member_450,2025-01-30,2025-02-14,Issued
+387,Introduction to Algorithms,Stuart Russell,Database,9780440577312,OReilly,2019,English,208,7,15,M226,Member_455,2025-02-27,2025-03-14,Issued
+388,Excel for Data Analysis,Alan Beaulieu,AI,9780758005354,OReilly,2016,English,695,9,7,M455,Member_260,2025-02-03,2025-02-18,Returned
+389,Deep Learning Basics,Andrew Ng,AI,9780581072878,Microsoft Press,2024,English,869,7,10,M290,Member_49,2025-02-25,2025-03-12,Issued
+390,SQL for Beginners,William Vincent,Database,9780400147055,OReilly,2020,English,758,2,15,M283,Member_393,2025-02-04,2025-02-19,Issued
+391,Web Development with Django,Andrew Ng,Database,9780570378230,Wiley,2024,English,820,7,5,M951,Member_409,2025-01-28,2025-02-12,Returned
+392,Operating System Concepts,Stuart Russell,Data Science,9780498606789,Microsoft Press,2023,English,252,10,6,M681,Member_37,2025-01-17,2025-02-01,Returned
+393,SQL for Beginners,Stuart Russell,AI,9780699615853,Pearson,2021,English,356,6,11,M899,Member_53,2025-02-17,2025-03-04,Returned
+394,Machine Learning Guide,Abraham Silberschatz,Programming,9780892663515,Pearson,2024,English,931,9,15,M363,Member_198,2025-01-18,2025-02-02,Issued
+395,Machine Learning Guide,Ian Goodfellow,Programming,9780866610662,Wiley,2021,English,314,6,10,M649,Member_437,2025-01-05,2025-01-20,Returned
+396,Introduction to Algorithms,Thomas H. Cormen,Web,9780416603021,MIT Press,2020,English,232,3,12,M192,Member_231,2025-01-18,2025-02-02,Issued
+397,Operating System Concepts,Ian Goodfellow,Web,9780269311249,OReilly,2021,English,1170,7,15,M599,Member_168,2025-01-01,2025-01-16,Issued
+398,Artificial Intelligence Basics,Abraham Silberschatz,Web,9780578011564,Wiley,2023,English,267,5,10,M436,Member_311,2025-01-05,2025-01-20,Returned
+399,Web Development with Django,Andrew Ng,AI,9780979554490,Wiley,2016,English,247,8,13,M452,Member_14,2025-02-09,2025-02-24,Issued
+400,Deep Learning Basics,Abraham Silberschatz,Database,9780505800916,Pearson,2021,English,569,3,7,M985,Member_63,2025-02-24,2025-03-11,Returned
+401,Machine Learning Guide,Wayne Winston,AI,9780394912540,OReilly,2015,English,1161,0,9,M929,Member_428,2025-02-19,2025-03-06,Issued
+402,Deep Learning Basics,William Vincent,Data Science,9780831508906,Pearson,2021,English,516,6,11,M836,Member_374,2025-01-25,2025-02-09,Returned
+403,Data Science Handbook,Jake VanderPlas,Data Science,9780105651395,MIT Press,2024,English,506,3,5,M519,Member_11,2025-01-12,2025-01-27,Issued
+404,Data Science Handbook,Andrew Ng,Web,9780624062976,Microsoft Press,2015,English,537,5,6,M955,Member_383,2025-02-04,2025-02-19,Issued
+405,Data Science Handbook,Wayne Winston,Data Science,9780857702356,OReilly,2016,English,1000,5,9,M375,Member_390,2025-02-01,2025-02-16,Issued
+406,Data Science Handbook,Jake VanderPlas,Algorithms,9780993721034,Pearson,2015,English,937,9,15,M265,Member_92,2025-01-01,2025-01-16,Issued
+407,Web Development with Django,Ian Goodfellow,Web,9780328746184,Microsoft Press,2022,English,241,0,7,M625,Member_206,2025-01-31,2025-02-15,Returned
+408,Deep Learning Basics,Thomas H. Cormen,Web,9780574419491,MIT Press,2022,English,1148,1,11,M185,Member_170,2025-03-01,2025-03-16,Returned
+409,Machine Learning Guide,Ian Goodfellow,Database,9780322771127,MIT Press,2020,English,231,0,9,M599,Member_464,2025-01-02,2025-01-17,Issued
+410,Operating System Concepts,Wayne Winston,AI,9780869279963,Wiley,2020,English,808,10,14,M866,Member_409,2025-02-10,2025-02-25,Issued
+411,Artificial Intelligence Basics,Wayne Winston,AI,9780930043916,Wiley,2019,English,262,4,6,M696,Member_103,2025-02-15,2025-03-02,Issued
+412,Introduction to Algorithms,John Smith,AI,9780492268083,OReilly,2016,English,1173,8,14,M414,Member_184,2025-01-11,2025-01-26,Returned
+413,Web Development with Django,Wayne Winston,AI,9780890531043,MIT Press,2016,English,615,7,13,M462,Member_41,2025-02-02,2025-02-17,Issued
+414,Machine Learning Guide,Jake VanderPlas,Web,9780337211641,MIT Press,2019,English,1136,1,6,M612,Member_1,2025-01-31,2025-02-15,Returned
+415,Artificial Intelligence Basics,Jake VanderPlas,Programming,9780518147204,Microsoft Press,2023,English,986,8,10,M850,Member_464,2025-01-19,2025-02-03,Returned
+416,Operating System Concepts,William Vincent,Web,9780734723961,MIT Press,2021,English,542,10,8,M734,Member_15,2025-01-30,2025-02-14,Returned
+417,SQL for Beginners,Abraham Silberschatz,AI,9780630127267,MIT Press,2017,English,226,4,9,M388,Member_432,2025-01-31,2025-02-15,Returned
+418,Web Development with Django,Ian Goodfellow,Data Science,9780472422915,OReilly,2015,English,999,6,11,M736,Member_457,2025-01-27,2025-02-11,Issued
+419,Data Science Handbook,Abraham Silberschatz,Database,9780481959743,Wiley,2017,English,842,8,7,M951,Member_256,2025-01-27,2025-02-11,Returned
+420,Operating System Concepts,Abraham Silberschatz,Data Science,9780748060146,Wiley,2022,English,759,5,7,M307,Member_106,2025-01-01,2025-01-16,Issued
+421,Operating System Concepts,William Vincent,AI,9780303517102,Microsoft Press,2021,English,916,3,9,M606,Member_319,2025-02-27,2025-03-14,Issued
+422,Deep Learning Basics,Wayne Winston,Algorithms,9780637948602,Pearson,2015,English,799,0,13,M319,Member_54,2025-01-21,2025-02-05,Issued
+423,Data Science Handbook,Alan Beaulieu,Web,9780210136827,OReilly,2021,English,498,8,11,M127,Member_114,2025-01-10,2025-01-25,Issued
+424,Web Development with Django,Abraham Silberschatz,Web,9780154963830,Pearson,2015,English,1147,7,9,M604,Member_484,2025-01-30,2025-02-14,Returned
+425,Excel for Data Analysis,John Smith,AI,9780393502300,OReilly,2022,English,663,7,5,M429,Member_142,2025-01-16,2025-01-31,Issued
+426,Artificial Intelligence Basics,Thomas H. Cormen,Web,9780989383504,MIT Press,2022,English,686,2,12,M400,Member_276,2025-01-01,2025-01-16,Returned
+427,Deep Learning Basics,Ian Goodfellow,Programming,9780277933743,Pearson,2017,English,873,2,15,M761,Member_57,2025-02-22,2025-03-09,Issued
+428,Excel for Data Analysis,Jake VanderPlas,Data Science,9780523515377,MIT Press,2017,English,365,5,15,M329,Member_383,2025-01-03,2025-01-18,Issued
+429,Introduction to Algorithms,John Smith,Web,9780838428906,Wiley,2018,English,1099,3,12,M232,Member_231,2025-02-18,2025-03-05,Returned
+430,Machine Learning Guide,Alan Beaulieu,Data Science,9780236644207,OReilly,2019,English,792,6,12,M202,Member_211,2025-01-07,2025-01-22,Returned
+431,Machine Learning Guide,William Vincent,Database,9780973538216,Microsoft Press,2015,English,527,4,5,M233,Member_271,2025-01-03,2025-01-18,Issued
+432,SQL for Beginners,Wayne Winston,AI,9780637486638,Wiley,2018,English,276,1,9,M823,Member_425,2025-03-01,2025-03-16,Returned
+433,Excel for Data Analysis,Thomas H. Cormen,AI,9780182256366,Microsoft Press,2022,English,953,6,10,M393,Member_57,2025-03-01,2025-03-16,Issued
+434,Deep Learning Basics,Abraham Silberschatz,Data Science,9780128593039,Pearson,2019,English,1069,10,10,M290,Member_385,2025-02-25,2025-03-12,Returned
+435,Artificial Intelligence Basics,Alan Beaulieu,Web,9780148049425,MIT Press,2020,English,1094,3,7,M959,Member_334,2025-01-23,2025-02-07,Issued
+436,Artificial Intelligence Basics,Abraham Silberschatz,Web,9780323854796,Microsoft Press,2015,English,721,4,14,M105,Member_113,2025-02-09,2025-02-24,Returned
+437,Operating System Concepts,Thomas H. Cormen,Algorithms,9780998124936,MIT Press,2015,English,898,7,15,M267,Member_473,2025-02-25,2025-03-12,Issued
+438,Machine Learning Guide,Jake VanderPlas,Web,9780845853597,Pearson,2024,English,494,8,10,M681,Member_385,2025-01-27,2025-02-11,Issued
+439,Artificial Intelligence Basics,William Vincent,Programming,9780913439983,MIT Press,2018,English,339,1,9,M403,Member_479,2025-01-14,2025-01-29,Issued
+440,Data Science Handbook,Wayne Winston,Programming,9780424093731,Wiley,2022,English,479,5,8,M324,Member_163,2025-02-21,2025-03-08,Issued
+441,Introduction to Algorithms,Wayne Winston,Database,9780463243331,MIT Press,2023,English,565,1,5,M917,Member_485,2025-01-27,2025-02-11,Returned
+442,Deep Learning Basics,Thomas H. Cormen,Programming,9780498802474,OReilly,2024,English,778,7,8,M128,Member_382,2025-01-04,2025-01-19,Returned
+443,SQL for Beginners,Ian Goodfellow,AI,9780951147301,Wiley,2022,English,396,2,12,M538,Member_458,2025-02-21,2025-03-08,Issued
+444,Excel for Data Analysis,John Smith,Algorithms,9780284564348,Microsoft Press,2019,English,638,9,10,M949,Member_450,2025-01-29,2025-02-13,Issued
+445,Machine Learning Guide,Andrew Ng,Data Science,9780479076137,Microsoft Press,2019,English,1075,4,12,M117,Member_361,2025-01-27,2025-02-11,Returned
+446,SQL for Beginners,Ian Goodfellow,Web,9780576675199,Microsoft Press,2020,English,461,0,12,M523,Member_348,2025-01-09,2025-01-24,Returned
+447,Web Development with Django,Abraham Silberschatz,AI,9780302262654,OReilly,2020,English,248,4,9,M881,Member_302,2025-01-27,2025-02-11,Returned
+448,Web Development with Django,Stuart Russell,Algorithms,9780406203642,MIT Press,2024,English,399,10,5,M253,Member_413,2025-01-13,2025-01-28,Returned
+449,Python Programming,Ian Goodfellow,Database,9780851577036,OReilly,2022,English,787,10,13,M607,Member_68,2025-02-11,2025-02-26,Returned
+450,Machine Learning Guide,William Vincent,AI,9780172719427,MIT Press,2021,English,1188,2,6,M426,Member_218,2025-01-12,2025-01-27,Returned
+451,Deep Learning Basics,John Smith,Web,9780853974576,OReilly,2024,English,1065,10,7,M261,Member_380,2025-02-19,2025-03-06,Returned
+452,Data Science Handbook,Ian Goodfellow,Data Science,9780521873591,OReilly,2019,English,260,8,9,M502,Member_466,2025-01-18,2025-02-02,Returned
+453,Excel for Data Analysis,Stuart Russell,Web,9780904329777,Pearson,2024,English,1077,4,15,M152,Member_247,2025-01-16,2025-01-31,Issued
+454,Python Programming,Thomas H. Cormen,Database,9780414137229,OReilly,2021,English,1025,0,5,M431,Member_454,2025-02-21,2025-03-08,Returned
+455,Data Science Handbook,Alan Beaulieu,Algorithms,9780843234758,Pearson,2021,English,453,3,6,M237,Member_371,2025-02-10,2025-02-25,Issued
+456,Deep Learning Basics,Alan Beaulieu,Algorithms,9780265307092,Wiley,2017,English,642,10,11,M865,Member_492,2025-02-05,2025-02-20,Issued
+457,Operating System Concepts,Ian Goodfellow,Algorithms,9780533335298,Wiley,2023,English,377,10,5,M400,Member_110,2025-02-28,2025-03-15,Returned
+458,Introduction to Algorithms,Thomas H. Cormen,AI,9780363178438,Microsoft Press,2022,English,1184,6,9,M654,Member_93,2025-01-15,2025-01-30,Issued
+459,SQL for Beginners,Alan Beaulieu,Data Science,9780549569799,Microsoft Press,2017,English,545,10,8,M610,Member_133,2025-03-01,2025-03-16,Returned
+460,Artificial Intelligence Basics,Thomas H. Cormen,Data Science,9780727662683,Wiley,2019,English,1193,0,5,M830,Member_241,2025-02-13,2025-02-28,Returned
+461,Introduction to Algorithms,Stuart Russell,Algorithms,9780234184903,Pearson,2016,English,912,2,12,M616,Member_30,2025-01-01,2025-01-16,Issued
+462,Introduction to Algorithms,Wayne Winston,Data Science,9780208796276,OReilly,2021,English,334,10,12,M656,Member_81,2025-01-31,2025-02-15,Issued
+463,Artificial Intelligence Basics,Alan Beaulieu,Data Science,9780951800854,MIT Press,2021,English,489,2,6,M928,Member_305,2025-01-04,2025-01-19,Issued
+464,Machine Learning Guide,Ian Goodfellow,Algorithms,9780816777315,Microsoft Press,2020,English,448,8,15,M759,Member_193,2025-02-23,2025-03-10,Returned
+465,Introduction to Algorithms,Alan Beaulieu,Web,9780230117798,OReilly,2018,English,686,5,11,M538,Member_275,2025-01-08,2025-01-23,Issued
+466,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780292139636,Microsoft Press,2018,English,1050,5,12,M660,Member_105,2025-01-04,2025-01-19,Returned
+467,Introduction to Algorithms,Abraham Silberschatz,Data Science,9780879215716,Wiley,2024,English,249,0,7,M575,Member_385,2025-02-12,2025-02-27,Issued
+468,Operating System Concepts,Thomas H. Cormen,AI,9780542164677,MIT Press,2021,English,1030,6,12,M540,Member_404,2025-01-14,2025-01-29,Issued
+469,Introduction to Algorithms,Jake VanderPlas,Web,9780897208618,Wiley,2015,English,642,4,11,M843,Member_146,2025-02-05,2025-02-20,Issued
+470,Introduction to Algorithms,William Vincent,Web,9780972050575,Wiley,2016,English,517,0,9,M819,Member_310,2025-02-06,2025-02-21,Issued
+471,Operating System Concepts,Jake VanderPlas,Data Science,9780434294425,Microsoft Press,2020,English,521,5,15,M323,Member_64,2025-02-22,2025-03-09,Returned
+472,SQL for Beginners,William Vincent,AI,9780517379636,Wiley,2018,English,243,9,12,M116,Member_392,2025-01-25,2025-02-09,Returned
+473,Web Development with Django,Thomas H. Cormen,Programming,9780791304640,MIT Press,2023,English,939,1,8,M554,Member_322,2025-01-24,2025-02-08,Issued
+474,Python Programming,William Vincent,Programming,9780909621416,Wiley,2015,English,991,1,14,M965,Member_496,2025-02-11,2025-02-26,Returned
+475,SQL for Beginners,John Smith,Database,9780263043654,Microsoft Press,2017,English,1136,1,6,M989,Member_167,2025-02-25,2025-03-12,Returned
+476,SQL for Beginners,Wayne Winston,Programming,9780764450184,OReilly,2020,English,1179,5,10,M994,Member_237,2025-02-09,2025-02-24,Issued
+477,Excel for Data Analysis,Stuart Russell,Web,9780486133052,Wiley,2024,English,580,4,7,M132,Member_294,2025-01-08,2025-01-23,Returned
+478,Data Science Handbook,Thomas H. Cormen,Data Science,9780578325012,Wiley,2017,English,342,9,14,M539,Member_304,2025-02-02,2025-02-17,Issued
+479,Machine Learning Guide,Thomas H. Cormen,Web,9780756558237,OReilly,2024,English,315,9,7,M175,Member_263,2025-02-21,2025-03-08,Issued
+480,Excel for Data Analysis,Abraham Silberschatz,Web,9780820192522,Wiley,2020,English,692,4,9,M621,Member_90,2025-01-17,2025-02-01,Returned
+481,Data Science Handbook,Stuart Russell,Data Science,9780264467591,Wiley,2023,English,1066,5,15,M983,Member_340,2025-02-20,2025-03-07,Returned
+482,Deep Learning Basics,Abraham Silberschatz,Algorithms,9780741196849,OReilly,2024,English,690,8,9,M543,Member_346,2025-02-05,2025-02-20,Returned
+483,Machine Learning Guide,Alan Beaulieu,Web,9780281489999,Wiley,2021,English,370,4,9,M214,Member_385,2025-02-18,2025-03-05,Issued
+484,Data Science Handbook,Andrew Ng,Programming,9780966217525,MIT Press,2019,English,680,1,10,M485,Member_292,2025-01-29,2025-02-13,Returned
+485,Data Science Handbook,Andrew Ng,Database,9780922954959,Pearson,2021,English,1149,8,8,M874,Member_210,2025-02-19,2025-03-06,Issued
+486,Introduction to Algorithms,Stuart Russell,AI,9780309365039,Pearson,2016,English,1125,5,11,M556,Member_481,2025-01-30,2025-02-14,Issued
+487,Deep Learning Basics,Abraham Silberschatz,Data Science,9780356107627,Wiley,2021,English,1126,4,12,M422,Member_15,2025-02-17,2025-03-04,Returned
+488,Deep Learning Basics,Alan Beaulieu,Data Science,9780852085830,MIT Press,2018,English,285,8,7,M563,Member_463,2025-01-01,2025-01-16,Returned
+489,Machine Learning Guide,Alan Beaulieu,Database,9780196789578,Microsoft Press,2021,English,449,5,8,M565,Member_381,2025-02-18,2025-03-05,Returned
+490,Python Programming,Ian Goodfellow,Programming,9780228110415,MIT Press,2023,English,1057,3,13,M993,Member_139,2025-01-06,2025-01-21,Returned
+491,Machine Learning Guide,Alan Beaulieu,Web,9780971444411,Microsoft Press,2018,English,702,0,7,M307,Member_151,2025-01-13,2025-01-28,Issued
+492,Python Programming,Abraham Silberschatz,Database,9780235407766,Microsoft Press,2020,English,936,6,10,M499,Member_249,2025-02-24,2025-03-11,Returned
+493,Machine Learning Guide,Stuart Russell,Algorithms,9780836906784,MIT Press,2023,English,926,8,12,M767,Member_75,2025-01-16,2025-01-31,Issued
+494,Artificial Intelligence Basics,William Vincent,Programming,9780490663168,OReilly,2024,English,1177,4,10,M844,Member_16,2025-01-21,2025-02-05,Returned
+495,Artificial Intelligence Basics,Abraham Silberschatz,Data Science,9780344398998,Microsoft Press,2024,English,1086,4,7,M524,Member_339,2025-01-16,2025-01-31,Returned
+496,Web Development with Django,Jake VanderPlas,Database,9780325156241,Pearson,2015,English,430,9,8,M898,Member_456,2025-02-25,2025-03-12,Returned
+497,Introduction to Algorithms,John Smith,Web,9780985175486,Wiley,2019,English,632,2,8,M914,Member_235,2025-02-23,2025-03-10,Issued
+498,Artificial Intelligence Basics,Alan Beaulieu,Web,9780691514678,Wiley,2022,English,655,6,5,M967,Member_60,2025-01-22,2025-02-06,Issued
+499,Introduction to Algorithms,Ian Goodfellow,Data Science,9780355362347,Wiley,2015,English,544,7,6,M467,Member_195,2025-01-15,2025-01-30,Returned
+500,Web Development with Django,Andrew Ng,AI,9780660331477,Pearson,2017,English,435,4,5,M452,Member_36,2025-03-01,2025-03-16,Returned
+501,Artificial Intelligence Basics,Thomas H. Cormen,Database,9780902884934,MIT Press,2020,English,934,9,5,M250,Member_309,2025-01-04,2025-01-19,Returned
+502,Data Science Handbook,Jake VanderPlas,Database,9780660092710,Microsoft Press,2016,English,818,2,9,M182,Member_325,2025-02-01,2025-02-16,Returned
+503,Introduction to Algorithms,John Smith,Programming,9780638783257,Wiley,2020,English,673,7,13,M966,Member_92,2025-01-28,2025-02-12,Returned
+504,Operating System Concepts,Abraham Silberschatz,Database,9780569507597,Pearson,2018,English,786,3,8,M802,Member_1,2025-01-15,2025-01-30,Returned
+505,Deep Learning Basics,John Smith,AI,9780216592138,OReilly,2015,English,400,10,11,M289,Member_29,2025-02-17,2025-03-04,Issued
+506,Web Development with Django,Stuart Russell,Data Science,9780147387434,OReilly,2015,English,574,2,12,M286,Member_147,2025-01-09,2025-01-24,Returned
+507,Deep Learning Basics,Stuart Russell,Web,9780157960609,OReilly,2020,English,576,3,14,M928,Member_135,2025-03-02,2025-03-17,Issued
+508,Operating System Concepts,Jake VanderPlas,Programming,9780816508606,OReilly,2019,English,471,2,12,M872,Member_485,2025-01-01,2025-01-16,Returned
+509,Python Programming,John Smith,Programming,9780677174694,MIT Press,2017,English,364,7,10,M517,Member_102,2025-02-13,2025-02-28,Returned
+510,Python Programming,Stuart Russell,Algorithms,9780727959342,OReilly,2019,English,674,7,10,M993,Member_449,2025-02-24,2025-03-11,Returned
+511,Operating System Concepts,Jake VanderPlas,Data Science,9780318861700,Pearson,2016,English,731,10,6,M960,Member_380,2025-01-12,2025-01-27,Issued
+512,Data Science Handbook,John Smith,Programming,9780525930038,Wiley,2021,English,765,4,14,M323,Member_151,2025-02-28,2025-03-15,Returned
+513,Artificial Intelligence Basics,Stuart Russell,Database,9780457860637,Pearson,2020,English,1032,0,10,M837,Member_44,2025-02-14,2025-03-01,Returned
+514,Machine Learning Guide,Abraham Silberschatz,AI,9780219250733,Microsoft Press,2017,English,512,5,9,M857,Member_157,2025-01-28,2025-02-12,Returned
+515,SQL for Beginners,Alan Beaulieu,Database,9780514272151,OReilly,2017,English,304,0,7,M241,Member_136,2025-02-13,2025-02-28,Issued
+516,Operating System Concepts,Jake VanderPlas,Database,9780887934146,OReilly,2022,English,1155,6,10,M859,Member_461,2025-01-23,2025-02-07,Issued
+517,Operating System Concepts,Wayne Winston,Programming,9780966129808,Microsoft Press,2024,English,500,6,7,M101,Member_146,2025-02-05,2025-02-20,Returned
+518,Web Development with Django,John Smith,AI,9780548304060,OReilly,2019,English,788,4,8,M897,Member_391,2025-02-25,2025-03-12,Issued
+519,Excel for Data Analysis,Stuart Russell,AI,9780985277894,OReilly,2021,English,1104,8,14,M789,Member_96,2025-02-01,2025-02-16,Returned
+520,Excel for Data Analysis,Alan Beaulieu,AI,9780519588499,OReilly,2023,English,638,4,10,M275,Member_338,2025-01-22,2025-02-06,Issued
+521,Machine Learning Guide,William Vincent,Database,9780658920422,OReilly,2015,English,982,6,6,M192,Member_73,2025-01-17,2025-02-01,Issued
+522,SQL for Beginners,Thomas H. Cormen,AI,9780905501720,Microsoft Press,2016,English,1089,8,15,M983,Member_422,2025-02-26,2025-03-13,Returned
+523,Web Development with Django,William Vincent,Database,9780809014884,Wiley,2020,English,775,5,7,M756,Member_102,2025-01-21,2025-02-05,Returned
+524,Deep Learning Basics,Ian Goodfellow,Database,9780784702197,OReilly,2015,English,914,3,15,M500,Member_19,2025-02-18,2025-03-05,Issued
+525,Python Programming,Wayne Winston,AI,9780539109995,OReilly,2019,English,491,4,11,M316,Member_220,2025-02-10,2025-02-25,Returned
+526,Excel for Data Analysis,Ian Goodfellow,Algorithms,9780797892501,MIT Press,2022,English,500,5,6,M599,Member_21,2025-02-18,2025-03-05,Returned
+527,Operating System Concepts,John Smith,Database,9780440594363,Microsoft Press,2015,English,1069,3,7,M805,Member_347,2025-01-31,2025-02-15,Returned
+528,Data Science Handbook,Jake VanderPlas,Programming,9780428100863,Wiley,2023,English,1162,2,11,M728,Member_269,2025-01-15,2025-01-30,Returned
+529,Web Development with Django,John Smith,Programming,9780758411684,Pearson,2020,English,326,5,9,M322,Member_106,2025-01-15,2025-01-30,Issued
+530,Machine Learning Guide,Stuart Russell,Data Science,9780202954771,MIT Press,2021,English,748,4,8,M941,Member_18,2025-01-19,2025-02-03,Issued
+531,Operating System Concepts,Stuart Russell,AI,9780641054306,OReilly,2015,English,255,4,5,M820,Member_354,2025-02-15,2025-03-02,Returned
+532,SQL for Beginners,Alan Beaulieu,Programming,9780276162693,MIT Press,2018,English,364,10,7,M399,Member_266,2025-02-14,2025-03-01,Returned
+533,Python Programming,Alan Beaulieu,Programming,9780462279787,MIT Press,2018,English,638,9,9,M212,Member_158,2025-02-07,2025-02-22,Returned
+534,Deep Learning Basics,Wayne Winston,Database,9780435703372,Microsoft Press,2022,English,1031,3,8,M817,Member_469,2025-01-05,2025-01-20,Issued
+535,Operating System Concepts,Thomas H. Cormen,Data Science,9780464060002,Wiley,2015,English,486,5,11,M259,Member_114,2025-01-13,2025-01-28,Issued
+536,Artificial Intelligence Basics,William Vincent,Data Science,9780565397690,Wiley,2021,English,1102,9,10,M346,Member_4,2025-01-16,2025-01-31,Returned
+537,SQL for Beginners,William Vincent,Data Science,9780683739140,Microsoft Press,2015,English,669,7,6,M232,Member_40,2025-02-02,2025-02-17,Returned
+538,Introduction to Algorithms,Stuart Russell,Database,9780671606399,Microsoft Press,2019,English,471,0,10,M800,Member_114,2025-02-16,2025-03-03,Issued
+539,Introduction to Algorithms,Wayne Winston,Programming,9780513293955,MIT Press,2020,English,745,5,10,M843,Member_124,2025-02-05,2025-02-20,Returned
+540,Data Science Handbook,Abraham Silberschatz,AI,9780506009778,OReilly,2020,English,767,7,5,M697,Member_304,2025-02-05,2025-02-20,Issued
+541,Machine Learning Guide,Thomas H. Cormen,Web,9780132945433,Microsoft Press,2024,English,393,7,15,M238,Member_117,2025-02-06,2025-02-21,Issued
+542,Python Programming,Andrew Ng,Algorithms,9780621132861,Wiley,2018,English,476,1,12,M905,Member_123,2025-02-04,2025-02-19,Returned
+543,Data Science Handbook,Abraham Silberschatz,Algorithms,9780310077585,Microsoft Press,2015,English,640,1,14,M667,Member_393,2025-01-25,2025-02-09,Returned
+544,Web Development with Django,Abraham Silberschatz,Algorithms,9780767864664,Pearson,2018,English,1037,4,11,M602,Member_425,2025-03-01,2025-03-16,Issued
+545,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780739398810,OReilly,2019,English,348,3,8,M425,Member_56,2025-01-17,2025-02-01,Returned
+546,Python Programming,Jake VanderPlas,Data Science,9780883455798,OReilly,2016,English,301,5,8,M256,Member_393,2025-01-10,2025-01-25,Issued
+547,SQL for Beginners,Abraham Silberschatz,Programming,9780803801604,Microsoft Press,2024,English,950,6,8,M355,Member_492,2025-02-27,2025-03-14,Returned
+548,Excel for Data Analysis,Abraham Silberschatz,Data Science,9780764667596,OReilly,2016,English,503,2,8,M266,Member_490,2025-01-25,2025-02-09,Returned
+549,Operating System Concepts,Andrew Ng,AI,9780732754017,Microsoft Press,2018,English,957,3,8,M343,Member_228,2025-01-20,2025-02-04,Returned
+550,Operating System Concepts,Abraham Silberschatz,Database,9780512318661,OReilly,2022,English,1083,9,5,M349,Member_312,2025-02-23,2025-03-10,Returned
+551,Web Development with Django,John Smith,Web,9780658697956,Pearson,2016,English,580,8,15,M425,Member_2,2025-01-24,2025-02-08,Returned
+552,Introduction to Algorithms,Abraham Silberschatz,Programming,9780823215498,Microsoft Press,2016,English,1126,4,5,M449,Member_396,2025-02-23,2025-03-10,Returned
+553,Introduction to Algorithms,Thomas H. Cormen,Web,9780819063339,Wiley,2015,English,441,0,15,M806,Member_446,2025-02-28,2025-03-15,Issued
+554,SQL for Beginners,Alan Beaulieu,Algorithms,9780308782975,Pearson,2016,English,207,1,11,M508,Member_69,2025-01-12,2025-01-27,Returned
+555,Python Programming,Thomas H. Cormen,AI,9780920380419,Microsoft Press,2019,English,977,4,5,M739,Member_415,2025-01-31,2025-02-15,Returned
+556,Artificial Intelligence Basics,Stuart Russell,Web,9780980799832,OReilly,2024,English,568,5,13,M886,Member_52,2025-01-15,2025-01-30,Returned
+557,Introduction to Algorithms,John Smith,AI,9780814178341,Wiley,2023,English,649,0,6,M194,Member_13,2025-01-13,2025-01-28,Returned
+558,Deep Learning Basics,William Vincent,Data Science,9780302604196,MIT Press,2018,English,1041,8,5,M924,Member_241,2025-01-18,2025-02-02,Returned
+559,Machine Learning Guide,William Vincent,Database,9780402554669,MIT Press,2020,English,647,9,5,M901,Member_224,2025-02-16,2025-03-03,Returned
+560,Data Science Handbook,Stuart Russell,Web,9780137508988,OReilly,2023,English,500,6,8,M467,Member_85,2025-02-18,2025-03-05,Returned
+561,Operating System Concepts,Stuart Russell,AI,9780314411715,MIT Press,2018,English,1051,8,9,M100,Member_323,2025-01-05,2025-01-20,Returned
+562,SQL for Beginners,Andrew Ng,Database,9780335958924,Wiley,2016,English,1186,0,12,M591,Member_302,2025-01-28,2025-02-12,Issued
+563,Excel for Data Analysis,Andrew Ng,Algorithms,9780295573936,MIT Press,2021,English,257,3,15,M944,Member_261,2025-01-06,2025-01-21,Returned
+564,Deep Learning Basics,Thomas H. Cormen,Data Science,9780744262068,Pearson,2022,English,620,1,7,M980,Member_309,2025-02-21,2025-03-08,Issued
+565,Artificial Intelligence Basics,Abraham Silberschatz,AI,9780512511749,MIT Press,2023,English,1099,5,12,M200,Member_48,2025-01-09,2025-01-24,Returned
+566,Web Development with Django,Alan Beaulieu,Database,9780785727369,Pearson,2020,English,483,5,12,M561,Member_437,2025-01-23,2025-02-07,Returned
+567,Data Science Handbook,Andrew Ng,AI,9780513626243,Wiley,2021,English,320,1,12,M976,Member_479,2025-02-03,2025-02-18,Issued
+568,Excel for Data Analysis,John Smith,Programming,9780811324256,Microsoft Press,2015,English,1025,4,15,M757,Member_263,2025-02-25,2025-03-12,Returned
+569,Data Science Handbook,Abraham Silberschatz,Algorithms,9780835578215,Wiley,2016,English,559,9,7,M516,Member_32,2025-01-05,2025-01-20,Issued
+570,Python Programming,Stuart Russell,AI,9780723194935,OReilly,2015,English,517,5,12,M862,Member_309,2025-02-10,2025-02-25,Returned
+571,Python Programming,Ian Goodfellow,Web,9780477002295,Wiley,2017,English,223,6,14,M716,Member_181,2025-02-03,2025-02-18,Issued
+572,Web Development with Django,Thomas H. Cormen,AI,9780319669476,Microsoft Press,2021,English,785,0,12,M220,Member_345,2025-01-22,2025-02-06,Returned
+573,Machine Learning Guide,Alan Beaulieu,Programming,9780273201439,OReilly,2021,English,814,8,7,M942,Member_226,2025-01-08,2025-01-23,Returned
+574,Introduction to Algorithms,Jake VanderPlas,Database,9780484708186,OReilly,2024,English,409,2,12,M425,Member_303,2025-01-24,2025-02-08,Issued
+575,Python Programming,Alan Beaulieu,Programming,9780115043511,Microsoft Press,2019,English,530,5,15,M150,Member_271,2025-02-09,2025-02-24,Issued
+576,Machine Learning Guide,William Vincent,Database,9780695519135,Microsoft Press,2021,English,637,7,14,M736,Member_188,2025-02-14,2025-03-01,Issued
+577,SQL for Beginners,Jake VanderPlas,Programming,9780148000940,Microsoft Press,2018,English,545,7,5,M369,Member_67,2025-02-14,2025-03-01,Returned
+578,SQL for Beginners,William Vincent,Programming,9780345052850,MIT Press,2022,English,604,8,9,M660,Member_56,2025-01-21,2025-02-05,Issued
+579,Web Development with Django,Andrew Ng,Web,9780653934276,Pearson,2016,English,1050,7,12,M935,Member_41,2025-01-07,2025-01-22,Returned
+580,Artificial Intelligence Basics,William Vincent,Web,9780868658807,Pearson,2015,English,466,8,10,M854,Member_302,2025-02-26,2025-03-13,Returned
+581,Machine Learning Guide,William Vincent,Algorithms,9780514167086,OReilly,2022,English,1012,3,12,M929,Member_297,2025-01-07,2025-01-22,Issued
+582,Python Programming,Andrew Ng,Algorithms,9780401851229,OReilly,2016,English,734,1,6,M328,Member_311,2025-02-18,2025-03-05,Issued
+583,Web Development with Django,Abraham Silberschatz,Web,9780584790317,MIT Press,2021,English,563,6,12,M250,Member_448,2025-01-21,2025-02-05,Returned
+584,Artificial Intelligence Basics,Thomas H. Cormen,Database,9780489451938,Wiley,2024,English,381,4,11,M285,Member_392,2025-02-09,2025-02-24,Returned
+585,Web Development with Django,William Vincent,Data Science,9780140017824,OReilly,2015,English,1064,9,8,M852,Member_311,2025-01-27,2025-02-11,Returned
+586,Operating System Concepts,Jake VanderPlas,Programming,9780680438299,Pearson,2022,English,946,6,14,M272,Member_373,2025-01-19,2025-02-03,Issued
+587,Web Development with Django,William Vincent,Data Science,9780149342767,Pearson,2018,English,363,8,8,M653,Member_271,2025-02-15,2025-03-02,Returned
+588,Data Science Handbook,John Smith,Database,9780781819499,OReilly,2024,English,217,3,12,M485,Member_345,2025-02-18,2025-03-05,Issued
+589,Introduction to Algorithms,Jake VanderPlas,Data Science,9780378866903,Wiley,2024,English,357,7,13,M361,Member_118,2025-01-16,2025-01-31,Issued
+590,Introduction to Algorithms,Jake VanderPlas,Web,9780848017213,MIT Press,2018,English,866,8,11,M215,Member_234,2025-02-28,2025-03-15,Returned
+591,Deep Learning Basics,Wayne Winston,Web,9780768720193,Wiley,2016,English,1137,7,9,M953,Member_418,2025-01-24,2025-02-08,Returned
+592,Machine Learning Guide,Stuart Russell,Web,9780217484794,OReilly,2017,English,619,10,8,M162,Member_405,2025-01-22,2025-02-06,Returned
+593,Deep Learning Basics,Abraham Silberschatz,AI,9780268061444,Pearson,2018,English,759,6,11,M185,Member_344,2025-02-14,2025-03-01,Returned
+594,Introduction to Algorithms,Alan Beaulieu,Database,9780671341072,Pearson,2023,English,745,1,15,M506,Member_38,2025-02-12,2025-02-27,Returned
+595,Deep Learning Basics,Thomas H. Cormen,AI,9780650291209,Microsoft Press,2021,English,643,4,14,M622,Member_387,2025-01-31,2025-02-15,Returned
+596,Deep Learning Basics,Thomas H. Cormen,AI,9780801802077,MIT Press,2016,English,639,3,11,M224,Member_133,2025-02-17,2025-03-04,Returned
+597,Python Programming,Stuart Russell,Web,9780323511858,MIT Press,2021,English,871,4,15,M232,Member_483,2025-01-03,2025-01-18,Issued
+598,Web Development with Django,Abraham Silberschatz,Programming,9780313095235,MIT Press,2021,English,505,1,9,M884,Member_466,2025-01-10,2025-01-25,Issued
+599,Python Programming,John Smith,Web,9780732587435,Wiley,2024,English,770,5,13,M561,Member_105,2025-02-16,2025-03-03,Issued
+600,Excel for Data Analysis,William Vincent,AI,9780440129262,OReilly,2018,English,789,2,13,M677,Member_301,2025-03-01,2025-03-16,Issued
+601,Excel for Data Analysis,John Smith,Web,9780893463091,OReilly,2017,English,646,10,11,M354,Member_371,2025-01-20,2025-02-04,Returned
+602,Excel for Data Analysis,William Vincent,Data Science,9780771972533,MIT Press,2020,English,209,0,8,M800,Member_238,2025-02-21,2025-03-08,Returned
+603,Machine Learning Guide,Stuart Russell,Web,9780939377234,Wiley,2023,English,275,9,12,M693,Member_323,2025-01-06,2025-01-21,Returned
+604,Introduction to Algorithms,Ian Goodfellow,AI,9780410440149,Pearson,2020,English,584,7,5,M570,Member_25,2025-03-02,2025-03-17,Returned
+605,Introduction to Algorithms,Andrew Ng,AI,9780367577500,MIT Press,2023,English,242,2,6,M922,Member_280,2025-01-19,2025-02-03,Returned
+606,Artificial Intelligence Basics,Wayne Winston,Database,9780283056176,MIT Press,2023,English,488,10,8,M349,Member_248,2025-02-13,2025-02-28,Returned
+607,Introduction to Algorithms,John Smith,Programming,9780320441980,MIT Press,2024,English,1029,5,12,M366,Member_81,2025-02-15,2025-03-02,Returned
+608,Artificial Intelligence Basics,William Vincent,Web,9780148193246,Wiley,2017,English,338,0,13,M758,Member_203,2025-01-07,2025-01-22,Returned
+609,SQL for Beginners,William Vincent,AI,9780705430024,OReilly,2023,English,682,10,8,M737,Member_360,2025-02-15,2025-03-02,Issued
+610,Operating System Concepts,Stuart Russell,Database,9780499960989,Wiley,2023,English,865,0,9,M711,Member_116,2025-01-11,2025-01-26,Returned
+611,Web Development with Django,Abraham Silberschatz,Data Science,9780155199644,Microsoft Press,2016,English,328,7,10,M666,Member_342,2025-02-13,2025-02-28,Issued
+612,Artificial Intelligence Basics,Stuart Russell,Web,9780702802026,MIT Press,2017,English,350,10,15,M858,Member_158,2025-01-17,2025-02-01,Returned
+613,Python Programming,Alan Beaulieu,Data Science,9780524541294,Wiley,2024,English,651,2,11,M452,Member_136,2025-02-15,2025-03-02,Returned
+614,SQL for Beginners,Abraham Silberschatz,Programming,9780486313313,MIT Press,2020,English,458,1,9,M204,Member_468,2025-03-02,2025-03-17,Issued
+615,Machine Learning Guide,Thomas H. Cormen,Database,9780428342759,Pearson,2022,English,1055,4,11,M752,Member_148,2025-01-04,2025-01-19,Issued
+616,Operating System Concepts,William Vincent,Data Science,9780286102859,OReilly,2016,English,732,3,7,M157,Member_155,2025-02-25,2025-03-12,Issued
+617,Introduction to Algorithms,Jake VanderPlas,Programming,9780317960432,OReilly,2017,English,329,8,9,M647,Member_180,2025-01-25,2025-02-09,Issued
+618,Web Development with Django,Alan Beaulieu,Programming,9780745509164,Wiley,2024,English,445,2,10,M197,Member_404,2025-02-03,2025-02-18,Returned
+619,Artificial Intelligence Basics,William Vincent,AI,9780308880265,Wiley,2021,English,1083,7,12,M438,Member_477,2025-02-25,2025-03-12,Issued
+620,SQL for Beginners,Andrew Ng,Database,9780630186875,Wiley,2023,English,238,3,9,M268,Member_221,2025-02-10,2025-02-25,Issued
+621,Operating System Concepts,Andrew Ng,AI,9780894695573,OReilly,2022,English,682,10,6,M237,Member_183,2025-03-01,2025-03-16,Returned
+622,Web Development with Django,Alan Beaulieu,Algorithms,9780131257778,Wiley,2018,English,926,7,9,M432,Member_232,2025-02-16,2025-03-03,Issued
+623,Machine Learning Guide,Stuart Russell,Web,9780927069912,MIT Press,2023,English,1088,0,13,M258,Member_201,2025-01-17,2025-02-01,Issued
+624,Artificial Intelligence Basics,John Smith,Web,9780177190032,OReilly,2023,English,943,1,13,M605,Member_33,2025-02-07,2025-02-22,Issued
+625,Operating System Concepts,Alan Beaulieu,Algorithms,9780690952678,Wiley,2024,English,864,3,7,M248,Member_259,2025-02-14,2025-03-01,Returned
+626,Introduction to Algorithms,Alan Beaulieu,Programming,9780147178792,Pearson,2015,English,447,1,11,M717,Member_97,2025-01-15,2025-01-30,Issued
+627,Web Development with Django,John Smith,Web,9780367971791,Pearson,2017,English,629,3,13,M795,Member_461,2025-02-08,2025-02-23,Returned
+628,Python Programming,Abraham Silberschatz,Web,9780822505955,OReilly,2020,English,503,10,5,M727,Member_398,2025-01-15,2025-01-30,Issued
+629,Introduction to Algorithms,Ian Goodfellow,AI,9780864177741,Wiley,2018,English,478,8,5,M854,Member_332,2025-02-21,2025-03-08,Returned
+630,Web Development with Django,Thomas H. Cormen,Database,9780280504526,Wiley,2020,English,378,7,6,M251,Member_332,2025-01-28,2025-02-12,Issued
+631,Artificial Intelligence Basics,John Smith,Data Science,9780405383068,Pearson,2019,English,882,0,13,M277,Member_72,2025-02-13,2025-02-28,Returned
+632,Artificial Intelligence Basics,William Vincent,Web,9780489176493,Pearson,2021,English,1032,7,9,M196,Member_68,2025-01-26,2025-02-10,Issued
+633,Artificial Intelligence Basics,Stuart Russell,Web,9780100096824,Pearson,2021,English,616,6,14,M704,Member_12,2025-01-25,2025-02-09,Issued
+634,Artificial Intelligence Basics,Stuart Russell,AI,9780626109223,OReilly,2015,English,608,10,7,M322,Member_369,2025-01-29,2025-02-13,Issued
+635,Excel for Data Analysis,Alan Beaulieu,Programming,9780873950557,Wiley,2018,English,300,0,15,M598,Member_260,2025-01-08,2025-01-23,Returned
+636,SQL for Beginners,Ian Goodfellow,AI,9780195883218,OReilly,2024,English,1121,7,15,M852,Member_355,2025-01-01,2025-01-16,Issued
+637,Web Development with Django,Stuart Russell,Programming,9780116430216,MIT Press,2020,English,547,1,13,M913,Member_138,2025-01-22,2025-02-06,Issued
+638,Operating System Concepts,John Smith,Programming,9780603082330,MIT Press,2018,English,396,1,12,M181,Member_198,2025-01-11,2025-01-26,Returned
+639,Python Programming,William Vincent,AI,9780461978111,Wiley,2024,English,806,5,8,M223,Member_38,2025-01-10,2025-01-25,Issued
+640,SQL for Beginners,Jake VanderPlas,AI,9780221335937,MIT Press,2023,English,1071,10,10,M786,Member_127,2025-01-28,2025-02-12,Issued
+641,SQL for Beginners,Wayne Winston,Programming,9780963001853,Microsoft Press,2018,English,794,8,7,M265,Member_276,2025-02-07,2025-02-22,Issued
+642,Python Programming,Wayne Winston,Algorithms,9780493568390,Microsoft Press,2023,English,414,10,12,M562,Member_4,2025-01-04,2025-01-19,Issued
+643,Data Science Handbook,Andrew Ng,Algorithms,9780482729439,Microsoft Press,2023,English,823,3,13,M779,Member_134,2025-02-28,2025-03-15,Issued
+644,Web Development with Django,Andrew Ng,Programming,9780968444800,MIT Press,2021,English,445,5,11,M998,Member_190,2025-02-03,2025-02-18,Returned
+645,Artificial Intelligence Basics,John Smith,Data Science,9780527645717,Wiley,2024,English,519,4,14,M557,Member_63,2025-02-10,2025-02-25,Returned
+646,Web Development with Django,Alan Beaulieu,Data Science,9780143439277,OReilly,2021,English,892,2,12,M677,Member_226,2025-02-24,2025-03-11,Returned
+647,Excel for Data Analysis,Ian Goodfellow,Programming,9780979448353,Pearson,2024,English,419,0,8,M131,Member_380,2025-02-05,2025-02-20,Issued
+648,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780372980905,MIT Press,2017,English,709,9,14,M136,Member_58,2025-01-05,2025-01-20,Returned
+649,Deep Learning Basics,Thomas H. Cormen,Algorithms,9780305275364,Microsoft Press,2021,English,725,2,14,M788,Member_313,2025-01-09,2025-01-24,Issued
+650,Excel for Data Analysis,Alan Beaulieu,AI,9780153790013,MIT Press,2017,English,978,3,12,M315,Member_217,2025-02-28,2025-03-15,Issued
+651,Introduction to Algorithms,Abraham Silberschatz,AI,9780479884383,Wiley,2016,English,692,6,7,M139,Member_400,2025-02-06,2025-02-21,Returned
+652,Artificial Intelligence Basics,Andrew Ng,Algorithms,9780341349722,Pearson,2017,English,487,2,12,M932,Member_154,2025-02-22,2025-03-09,Returned
+653,Web Development with Django,Jake VanderPlas,Algorithms,9780134713847,OReilly,2019,English,616,9,14,M988,Member_153,2025-01-31,2025-02-15,Returned
+654,SQL for Beginners,Ian Goodfellow,AI,9780339929071,Pearson,2016,English,795,5,5,M426,Member_489,2025-01-10,2025-01-25,Returned
+655,Introduction to Algorithms,Wayne Winston,Database,9780725825057,Pearson,2019,English,1093,2,15,M805,Member_433,2025-02-09,2025-02-24,Issued
+656,Data Science Handbook,Wayne Winston,Data Science,9780928800271,MIT Press,2017,English,538,2,6,M195,Member_438,2025-02-18,2025-03-05,Issued
+657,Web Development with Django,John Smith,AI,9780386341979,MIT Press,2023,English,758,10,11,M542,Member_85,2025-01-20,2025-02-04,Issued
+658,Operating System Concepts,Abraham Silberschatz,Data Science,9780523269071,OReilly,2015,English,632,8,15,M414,Member_112,2025-02-11,2025-02-26,Issued
+659,Excel for Data Analysis,Thomas H. Cormen,Web,9780453317700,Wiley,2022,English,851,1,10,M671,Member_495,2025-01-09,2025-01-24,Returned
+660,Machine Learning Guide,Wayne Winston,Web,9780811960475,MIT Press,2021,English,1151,3,11,M415,Member_315,2025-02-28,2025-03-15,Returned
+661,Python Programming,John Smith,Web,9780577319340,Microsoft Press,2018,English,775,10,10,M502,Member_23,2025-01-23,2025-02-07,Issued
+662,Introduction to Algorithms,Thomas H. Cormen,Data Science,9780172650349,Pearson,2017,English,1186,5,8,M828,Member_434,2025-02-19,2025-03-06,Issued
+663,Python Programming,Andrew Ng,Database,9780552485446,Microsoft Press,2019,English,905,7,14,M293,Member_33,2025-02-07,2025-02-22,Returned
+664,Data Science Handbook,Alan Beaulieu,AI,9780859122022,OReilly,2019,English,610,2,14,M464,Member_226,2025-01-22,2025-02-06,Returned
+665,Machine Learning Guide,Ian Goodfellow,Programming,9780251915225,Microsoft Press,2018,English,814,0,9,M850,Member_187,2025-02-09,2025-02-24,Returned
+666,Data Science Handbook,Andrew Ng,Web,9780729382207,OReilly,2024,English,718,2,9,M736,Member_33,2025-02-19,2025-03-06,Issued
+667,Introduction to Algorithms,Thomas H. Cormen,AI,9780528767916,Pearson,2015,English,274,8,7,M577,Member_342,2025-01-09,2025-01-24,Issued
+668,Data Science Handbook,Stuart Russell,Database,9780703126829,Microsoft Press,2019,English,335,8,8,M528,Member_382,2025-02-05,2025-02-20,Issued
+669,Excel for Data Analysis,Thomas H. Cormen,AI,9780337074412,Microsoft Press,2022,English,803,5,15,M422,Member_277,2025-01-29,2025-02-13,Returned
+670,Operating System Concepts,Ian Goodfellow,Web,9780787240908,OReilly,2023,English,287,0,13,M625,Member_16,2025-01-31,2025-02-15,Returned
+671,Excel for Data Analysis,Alan Beaulieu,Web,9780175372662,OReilly,2016,English,1000,0,13,M860,Member_93,2025-01-12,2025-01-27,Returned
+672,Artificial Intelligence Basics,Wayne Winston,Programming,9780493589178,Microsoft Press,2022,English,1035,10,12,M996,Member_160,2025-01-17,2025-02-01,Issued
+673,Machine Learning Guide,Wayne Winston,Database,9780814752787,OReilly,2016,English,235,3,13,M817,Member_468,2025-02-23,2025-03-10,Issued
+674,Excel for Data Analysis,Stuart Russell,Algorithms,9780132337292,MIT Press,2023,English,994,0,15,M761,Member_342,2025-01-24,2025-02-08,Issued
+675,Operating System Concepts,Wayne Winston,Web,9780477987064,OReilly,2017,English,813,2,14,M516,Member_20,2025-02-22,2025-03-09,Returned
+676,SQL for Beginners,Thomas H. Cormen,Database,9780633921200,Microsoft Press,2017,English,796,1,12,M979,Member_401,2025-01-04,2025-01-19,Returned
+677,SQL for Beginners,Jake VanderPlas,Data Science,9780851203913,Microsoft Press,2024,English,660,0,11,M778,Member_421,2025-03-01,2025-03-16,Returned
+678,Operating System Concepts,Thomas H. Cormen,Data Science,9780963943578,MIT Press,2015,English,359,9,6,M550,Member_135,2025-01-12,2025-01-27,Returned
+679,Introduction to Algorithms,Andrew Ng,Programming,9780773440341,OReilly,2024,English,855,5,7,M955,Member_190,2025-02-05,2025-02-20,Issued
+680,Excel for Data Analysis,Thomas H. Cormen,AI,9780259337228,MIT Press,2020,English,872,4,14,M820,Member_483,2025-01-18,2025-02-02,Returned
+681,Artificial Intelligence Basics,Abraham Silberschatz,Data Science,9780172121338,Pearson,2021,English,884,6,13,M232,Member_236,2025-02-09,2025-02-24,Issued
+682,SQL for Beginners,Thomas H. Cormen,Algorithms,9780420678643,OReilly,2023,English,844,6,11,M917,Member_129,2025-02-27,2025-03-14,Returned
+683,Operating System Concepts,William Vincent,Data Science,9780549218497,Wiley,2019,English,335,3,6,M820,Member_195,2025-01-29,2025-02-13,Issued
+684,SQL for Beginners,Andrew Ng,Data Science,9780555174911,Microsoft Press,2020,English,1055,1,7,M946,Member_246,2025-01-14,2025-01-29,Returned
+685,Introduction to Algorithms,Alan Beaulieu,Web,9780449674088,Wiley,2020,English,738,2,11,M392,Member_128,2025-02-01,2025-02-16,Returned
+686,Web Development with Django,Thomas H. Cormen,Database,9780121867807,OReilly,2023,English,477,9,8,M995,Member_362,2025-02-08,2025-02-23,Issued
+687,Web Development with Django,Andrew Ng,Web,9780809535162,Pearson,2023,English,757,1,13,M691,Member_61,2025-01-23,2025-02-07,Issued
+688,Artificial Intelligence Basics,Abraham Silberschatz,Database,9780101626355,OReilly,2023,English,658,10,11,M655,Member_60,2025-02-12,2025-02-27,Returned
+689,Excel for Data Analysis,Stuart Russell,Database,9780592167332,Microsoft Press,2016,English,644,6,5,M860,Member_410,2025-02-06,2025-02-21,Issued
+690,Data Science Handbook,Thomas H. Cormen,Web,9780773959057,Wiley,2024,English,1080,7,9,M504,Member_298,2025-02-24,2025-03-11,Issued
+691,Artificial Intelligence Basics,Stuart Russell,AI,9780474115599,OReilly,2023,English,824,2,13,M401,Member_179,2025-01-06,2025-01-21,Issued
+692,Web Development with Django,Alan Beaulieu,Database,9780451947917,Microsoft Press,2023,English,966,8,7,M411,Member_221,2025-01-13,2025-01-28,Issued
+693,Introduction to Algorithms,Andrew Ng,AI,9780235576622,OReilly,2016,English,1027,2,8,M624,Member_471,2025-01-07,2025-01-22,Returned
+694,Data Science Handbook,Stuart Russell,Programming,9780599293128,MIT Press,2020,English,466,10,12,M361,Member_335,2025-01-03,2025-01-18,Issued
+695,Operating System Concepts,Wayne Winston,Database,9780493960056,OReilly,2023,English,439,1,6,M628,Member_202,2025-01-15,2025-01-30,Issued
+696,Operating System Concepts,Thomas H. Cormen,Database,9780256869885,MIT Press,2021,English,934,1,6,M738,Member_419,2025-01-22,2025-02-06,Issued
+697,Artificial Intelligence Basics,Stuart Russell,Data Science,9780974000228,Pearson,2023,English,1036,1,14,M433,Member_158,2025-02-05,2025-02-20,Issued
+698,Web Development with Django,John Smith,Database,9780444819126,Microsoft Press,2023,English,613,9,5,M131,Member_199,2025-02-27,2025-03-14,Issued
+699,Operating System Concepts,Stuart Russell,AI,9780197613834,Pearson,2015,English,750,6,9,M238,Member_223,2025-01-01,2025-01-16,Issued
+700,Data Science Handbook,John Smith,Database,9780819107809,OReilly,2023,English,262,6,8,M708,Member_428,2025-01-20,2025-02-04,Issued
+701,Deep Learning Basics,Stuart Russell,AI,9780875696082,Pearson,2016,English,727,6,13,M471,Member_272,2025-02-01,2025-02-16,Returned
+702,Web Development with Django,Ian Goodfellow,Web,9780336055972,Microsoft Press,2020,English,499,1,10,M411,Member_228,2025-01-07,2025-01-22,Issued
+703,Python Programming,Jake VanderPlas,Web,9780639106259,MIT Press,2024,English,959,2,13,M892,Member_287,2025-02-26,2025-03-13,Issued
+704,Excel for Data Analysis,William Vincent,Data Science,9780545658923,Microsoft Press,2023,English,654,9,11,M127,Member_308,2025-02-18,2025-03-05,Issued
+705,Data Science Handbook,Thomas H. Cormen,Data Science,9780919778930,Wiley,2017,English,842,10,12,M154,Member_107,2025-01-16,2025-01-31,Returned
+706,Introduction to Algorithms,William Vincent,Programming,9780607099293,Wiley,2022,English,813,6,5,M703,Member_242,2025-02-03,2025-02-18,Returned
+707,Operating System Concepts,Wayne Winston,AI,9780953849607,Microsoft Press,2017,English,1044,2,15,M770,Member_169,2025-01-11,2025-01-26,Issued
+708,Python Programming,Jake VanderPlas,AI,9780864343940,Wiley,2018,English,851,9,5,M392,Member_338,2025-01-08,2025-01-23,Issued
+709,Machine Learning Guide,Stuart Russell,Programming,9780680480051,Pearson,2020,English,779,1,8,M807,Member_389,2025-01-22,2025-02-06,Returned
+710,Python Programming,Ian Goodfellow,Programming,9780545682693,Pearson,2017,English,901,10,9,M126,Member_45,2025-01-12,2025-01-27,Returned
+711,Deep Learning Basics,Stuart Russell,Algorithms,9780141279501,Pearson,2022,English,507,8,5,M743,Member_229,2025-01-18,2025-02-02,Returned
+712,Operating System Concepts,Wayne Winston,Database,9780800145681,Wiley,2023,English,518,0,12,M100,Member_473,2025-03-01,2025-03-16,Issued
+713,Web Development with Django,Stuart Russell,AI,9780828997746,Wiley,2022,English,608,8,8,M416,Member_322,2025-02-04,2025-02-19,Issued
+714,Python Programming,Thomas H. Cormen,AI,9780348096152,Pearson,2015,English,1144,3,6,M820,Member_186,2025-02-20,2025-03-07,Issued
+715,Web Development with Django,Andrew Ng,Programming,9780664771885,MIT Press,2021,English,912,1,9,M357,Member_265,2025-01-04,2025-01-19,Issued
+716,Excel for Data Analysis,Wayne Winston,Algorithms,9780133870238,OReilly,2017,English,488,1,13,M854,Member_404,2025-01-18,2025-02-02,Returned
+717,Introduction to Algorithms,Jake VanderPlas,Database,9780142714533,MIT Press,2024,English,358,9,9,M869,Member_266,2025-01-24,2025-02-08,Issued
+718,Python Programming,Alan Beaulieu,Data Science,9780228680548,Pearson,2024,English,258,4,8,M841,Member_214,2025-01-28,2025-02-12,Issued
+719,Artificial Intelligence Basics,Alan Beaulieu,Algorithms,9780350061843,Wiley,2021,English,957,3,15,M269,Member_305,2025-01-10,2025-01-25,Returned
+720,Web Development with Django,John Smith,Data Science,9780304318510,Wiley,2016,English,609,7,14,M642,Member_143,2025-02-01,2025-02-16,Returned
+721,Machine Learning Guide,John Smith,Algorithms,9780403279905,Pearson,2024,English,903,2,9,M851,Member_230,2025-01-18,2025-02-02,Returned
+722,Machine Learning Guide,Ian Goodfellow,Algorithms,9780904028630,MIT Press,2023,English,265,7,5,M680,Member_80,2025-02-08,2025-02-23,Returned
+723,Web Development with Django,Wayne Winston,Programming,9780295205137,OReilly,2021,English,655,6,7,M698,Member_452,2025-01-13,2025-01-28,Issued
+724,Python Programming,William Vincent,AI,9780363099495,Pearson,2016,English,662,3,11,M453,Member_3,2025-01-27,2025-02-11,Returned
+725,Deep Learning Basics,Abraham Silberschatz,Data Science,9780224606541,Microsoft Press,2022,English,287,6,14,M420,Member_88,2025-03-01,2025-03-16,Issued
+726,Python Programming,John Smith,AI,9780670811122,Microsoft Press,2023,English,1001,0,10,M871,Member_490,2025-02-11,2025-02-26,Issued
+727,Data Science Handbook,John Smith,Algorithms,9780987861180,Microsoft Press,2016,English,892,4,5,M346,Member_303,2025-01-26,2025-02-10,Issued
+728,Operating System Concepts,Jake VanderPlas,AI,9780874100204,OReilly,2021,English,927,1,5,M408,Member_360,2025-01-20,2025-02-04,Issued
+729,Machine Learning Guide,Thomas H. Cormen,Web,9780668308163,MIT Press,2022,English,1091,9,10,M199,Member_75,2025-03-02,2025-03-17,Returned
+730,Introduction to Algorithms,Andrew Ng,Web,9780126655528,OReilly,2018,English,1081,4,10,M256,Member_352,2025-01-04,2025-01-19,Returned
+731,Excel for Data Analysis,Thomas H. Cormen,AI,9780554123376,Pearson,2023,English,997,3,7,M318,Member_202,2025-01-19,2025-02-03,Returned
+732,Introduction to Algorithms,Wayne Winston,Web,9780548751355,Microsoft Press,2018,English,1102,5,8,M138,Member_329,2025-01-15,2025-01-30,Returned
+733,Operating System Concepts,Andrew Ng,Algorithms,9780828574698,OReilly,2023,English,401,0,14,M659,Member_286,2025-02-02,2025-02-17,Issued
+734,Deep Learning Basics,William Vincent,Programming,9780608299450,Pearson,2023,English,438,1,12,M308,Member_459,2025-02-03,2025-02-18,Issued
+735,Artificial Intelligence Basics,Stuart Russell,Algorithms,9780789221977,MIT Press,2022,English,1126,7,15,M171,Member_269,2025-02-20,2025-03-07,Returned
+736,Web Development with Django,Thomas H. Cormen,Web,9780348652446,OReilly,2018,English,414,1,14,M428,Member_388,2025-01-19,2025-02-03,Issued
+737,Web Development with Django,Thomas H. Cormen,Web,9780920978103,OReilly,2020,English,206,10,7,M809,Member_89,2025-01-26,2025-02-10,Returned
+738,Introduction to Algorithms,Andrew Ng,Algorithms,9780935824683,OReilly,2022,English,284,5,14,M547,Member_100,2025-01-09,2025-01-24,Returned
+739,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780156358578,OReilly,2017,English,670,5,5,M786,Member_354,2025-02-14,2025-03-01,Issued
+740,Excel for Data Analysis,Alan Beaulieu,Web,9780365028685,MIT Press,2020,English,526,4,10,M671,Member_91,2025-02-21,2025-03-08,Issued
+741,Operating System Concepts,Thomas H. Cormen,AI,9780554586785,MIT Press,2021,English,403,1,6,M380,Member_114,2025-02-24,2025-03-11,Returned
+742,Machine Learning Guide,Jake VanderPlas,Database,9780516873363,Microsoft Press,2018,English,226,4,11,M811,Member_143,2025-01-04,2025-01-19,Issued
+743,Data Science Handbook,Abraham Silberschatz,Algorithms,9780768771486,Pearson,2017,English,293,1,9,M739,Member_394,2025-02-16,2025-03-03,Returned
+744,Operating System Concepts,Ian Goodfellow,Programming,9780481110150,Pearson,2021,English,804,5,11,M165,Member_258,2025-02-13,2025-02-28,Returned
+745,Machine Learning Guide,Ian Goodfellow,Database,9780160415465,Microsoft Press,2020,English,785,8,9,M146,Member_236,2025-02-23,2025-03-10,Issued
+746,SQL for Beginners,John Smith,Algorithms,9780385100377,MIT Press,2022,English,1090,10,11,M581,Member_245,2025-02-21,2025-03-08,Issued
+747,Artificial Intelligence Basics,Andrew Ng,Data Science,9780270733753,Wiley,2018,English,593,7,15,M662,Member_222,2025-02-28,2025-03-15,Issued
+748,Data Science Handbook,Thomas H. Cormen,Data Science,9780821571552,OReilly,2024,English,1082,5,7,M850,Member_114,2025-01-10,2025-01-25,Issued
+749,Python Programming,Jake VanderPlas,AI,9780212940203,Wiley,2018,English,1176,9,5,M666,Member_315,2025-01-31,2025-02-15,Returned
+750,Deep Learning Basics,Wayne Winston,Algorithms,9780521968448,Wiley,2016,English,770,0,13,M658,Member_460,2025-01-26,2025-02-10,Issued
+751,Introduction to Algorithms,Ian Goodfellow,Algorithms,9780248849285,Pearson,2023,English,677,8,5,M851,Member_325,2025-01-20,2025-02-04,Returned
+752,Introduction to Algorithms,Abraham Silberschatz,Web,9780923271695,MIT Press,2015,English,1081,8,11,M786,Member_330,2025-02-23,2025-03-10,Issued
+753,Deep Learning Basics,John Smith,Algorithms,9780619914667,Pearson,2022,English,446,5,8,M149,Member_447,2025-02-11,2025-02-26,Issued
+754,Machine Learning Guide,Andrew Ng,Programming,9780283159724,OReilly,2017,English,588,9,5,M585,Member_287,2025-02-10,2025-02-25,Returned
+755,Introduction to Algorithms,Thomas H. Cormen,Web,9780654435020,Pearson,2017,English,1006,2,11,M540,Member_9,2025-01-21,2025-02-05,Returned
+756,Deep Learning Basics,Stuart Russell,Database,9780752462302,OReilly,2016,English,1025,5,13,M925,Member_485,2025-01-01,2025-01-16,Returned
+757,Web Development with Django,Thomas H. Cormen,Data Science,9780694519120,Pearson,2018,English,320,10,5,M898,Member_69,2025-02-04,2025-02-19,Issued
+758,Introduction to Algorithms,John Smith,Data Science,9780385687093,Wiley,2022,English,264,4,10,M752,Member_53,2025-01-03,2025-01-18,Returned
+759,Artificial Intelligence Basics,Jake VanderPlas,Algorithms,9780688707523,Pearson,2016,English,1030,2,9,M627,Member_66,2025-02-02,2025-02-17,Issued
+760,Data Science Handbook,William Vincent,Programming,9780522163646,Pearson,2019,English,208,8,5,M737,Member_319,2025-01-02,2025-01-17,Returned
+761,Introduction to Algorithms,William Vincent,Programming,9780432279198,Microsoft Press,2015,English,727,6,6,M852,Member_31,2025-02-24,2025-03-11,Returned
+762,Excel for Data Analysis,John Smith,Web,9780130091876,Wiley,2017,English,985,8,14,M668,Member_462,2025-01-03,2025-01-18,Issued
+763,Deep Learning Basics,Andrew Ng,Programming,9780560466060,OReilly,2016,English,306,6,7,M168,Member_299,2025-02-23,2025-03-10,Returned
+764,Introduction to Algorithms,Andrew Ng,Algorithms,9780571661354,Microsoft Press,2015,English,492,8,9,M291,Member_429,2025-02-28,2025-03-15,Returned
+765,Excel for Data Analysis,John Smith,Database,9780606401156,Wiley,2017,English,936,3,5,M911,Member_269,2025-03-02,2025-03-17,Issued
+766,Python Programming,Thomas H. Cormen,Database,9780523538569,Wiley,2022,English,685,9,13,M996,Member_282,2025-01-09,2025-01-24,Returned
+767,Artificial Intelligence Basics,Abraham Silberschatz,AI,9780539959669,Wiley,2023,English,724,8,9,M365,Member_89,2025-01-19,2025-02-03,Returned
+768,Introduction to Algorithms,Abraham Silberschatz,Database,9780182412479,Pearson,2017,English,669,5,13,M846,Member_435,2025-02-11,2025-02-26,Returned
+769,Artificial Intelligence Basics,William Vincent,Data Science,9780199047619,Pearson,2015,English,352,2,7,M893,Member_467,2025-01-26,2025-02-10,Returned
+770,Web Development with Django,Andrew Ng,Programming,9780376775534,MIT Press,2016,English,1068,7,15,M825,Member_406,2025-02-08,2025-02-23,Issued
+771,Machine Learning Guide,Ian Goodfellow,Web,9780367141203,Microsoft Press,2024,English,671,3,9,M285,Member_193,2025-02-14,2025-03-01,Issued
+772,Artificial Intelligence Basics,Alan Beaulieu,Database,9780947659432,Pearson,2024,English,672,7,14,M868,Member_34,2025-02-20,2025-03-07,Returned
+773,Artificial Intelligence Basics,Stuart Russell,Algorithms,9780651167236,Pearson,2018,English,894,0,10,M687,Member_159,2025-01-05,2025-01-20,Issued
+774,Deep Learning Basics,Wayne Winston,Programming,9780237182844,OReilly,2020,English,237,1,12,M949,Member_433,2025-02-01,2025-02-16,Returned
+775,Web Development with Django,Ian Goodfellow,Algorithms,9780251200237,MIT Press,2018,English,402,0,5,M817,Member_146,2025-02-23,2025-03-10,Returned
+776,Artificial Intelligence Basics,Alan Beaulieu,Programming,9780124402775,MIT Press,2023,English,775,2,5,M585,Member_236,2025-01-16,2025-01-31,Returned
+777,Introduction to Algorithms,Andrew Ng,Web,9780837310441,MIT Press,2016,English,560,0,7,M850,Member_344,2025-01-16,2025-01-31,Returned
+778,Data Science Handbook,William Vincent,Algorithms,9780313297255,OReilly,2015,English,999,10,13,M788,Member_202,2025-01-08,2025-01-23,Returned
+779,Machine Learning Guide,Jake VanderPlas,AI,9780509779811,Pearson,2020,English,631,7,15,M712,Member_6,2025-01-08,2025-01-23,Returned
+780,Excel for Data Analysis,Jake VanderPlas,Database,9780963136071,Microsoft Press,2018,English,923,3,5,M607,Member_114,2025-01-01,2025-01-16,Issued
+781,SQL for Beginners,Abraham Silberschatz,Algorithms,9780101969562,MIT Press,2021,English,380,3,14,M116,Member_460,2025-01-05,2025-01-20,Issued
+782,Python Programming,Ian Goodfellow,Programming,9780525963902,Wiley,2024,English,350,3,14,M231,Member_149,2025-01-19,2025-02-03,Issued
+783,Introduction to Algorithms,Ian Goodfellow,Web,9780754559866,Microsoft Press,2016,English,940,5,15,M812,Member_135,2025-02-04,2025-02-19,Returned
+784,Introduction to Algorithms,John Smith,Database,9780300242848,MIT Press,2017,English,583,2,13,M738,Member_185,2025-02-16,2025-03-03,Issued
+785,Deep Learning Basics,William Vincent,Programming,9780703818102,Microsoft Press,2021,English,249,6,15,M540,Member_464,2025-03-01,2025-03-16,Returned
+786,Artificial Intelligence Basics,Jake VanderPlas,Data Science,9780156113585,Wiley,2022,English,503,9,5,M796,Member_303,2025-02-13,2025-02-28,Issued
+787,Python Programming,Thomas H. Cormen,AI,9780211025515,OReilly,2024,English,1106,4,5,M472,Member_48,2025-01-09,2025-01-24,Issued
+788,Data Science Handbook,Thomas H. Cormen,Algorithms,9780425589494,OReilly,2024,English,423,3,6,M240,Member_99,2025-02-11,2025-02-26,Returned
+789,Excel for Data Analysis,William Vincent,Data Science,9780552252827,MIT Press,2023,English,1197,10,6,M581,Member_371,2025-01-31,2025-02-15,Issued
+790,Operating System Concepts,William Vincent,AI,9780665940374,Pearson,2017,English,220,1,5,M719,Member_11,2025-02-19,2025-03-06,Returned
+791,Artificial Intelligence Basics,Ian Goodfellow,Database,9780247413162,Wiley,2023,English,1170,6,14,M806,Member_473,2025-02-20,2025-03-07,Returned
+792,Deep Learning Basics,Stuart Russell,AI,9780160100662,Wiley,2021,English,980,2,14,M273,Member_51,2025-02-07,2025-02-22,Issued
+793,Deep Learning Basics,Andrew Ng,Algorithms,9780484707233,Microsoft Press,2022,English,998,6,11,M670,Member_348,2025-01-06,2025-01-21,Issued
+794,Operating System Concepts,Abraham Silberschatz,Algorithms,9780502298881,OReilly,2017,English,703,6,11,M817,Member_366,2025-02-17,2025-03-04,Issued
+795,SQL for Beginners,Jake VanderPlas,Database,9780913234552,MIT Press,2021,English,713,2,13,M685,Member_114,2025-01-05,2025-01-20,Issued
+796,Excel for Data Analysis,Thomas H. Cormen,Programming,9780204570620,OReilly,2019,English,1144,10,8,M631,Member_343,2025-02-02,2025-02-17,Returned
+797,Introduction to Algorithms,Jake VanderPlas,Programming,9780769832085,Pearson,2017,English,974,5,12,M802,Member_301,2025-02-13,2025-02-28,Issued
+798,Introduction to Algorithms,Thomas H. Cormen,Database,9780508474255,Pearson,2016,English,1014,2,11,M957,Member_60,2025-02-24,2025-03-11,Returned
+799,Excel for Data Analysis,Abraham Silberschatz,Data Science,9780390373072,Microsoft Press,2020,English,785,9,13,M995,Member_133,2025-03-02,2025-03-17,Returned
+800,Deep Learning Basics,Thomas H. Cormen,Data Science,9780256052303,OReilly,2024,English,1159,4,15,M760,Member_316,2025-03-02,2025-03-17,Returned
+801,Machine Learning Guide,Thomas H. Cormen,Programming,9780291537221,Wiley,2015,English,761,9,6,M476,Member_377,2025-02-19,2025-03-06,Returned
+802,Web Development with Django,Alan Beaulieu,Web,9780309518139,MIT Press,2016,English,685,7,11,M578,Member_154,2025-01-08,2025-01-23,Returned
+803,Web Development with Django,Andrew Ng,AI,9780174779472,OReilly,2019,English,561,0,8,M754,Member_259,2025-02-25,2025-03-12,Returned
+804,Machine Learning Guide,Thomas H. Cormen,Data Science,9780501570753,Microsoft Press,2020,English,308,9,10,M893,Member_384,2025-03-02,2025-03-17,Issued
+805,Web Development with Django,Wayne Winston,AI,9780384748608,Pearson,2019,English,912,2,15,M504,Member_107,2025-02-19,2025-03-06,Issued
+806,Deep Learning Basics,John Smith,Data Science,9780962321111,Pearson,2024,English,901,0,8,M807,Member_23,2025-01-02,2025-01-17,Returned
+807,Excel for Data Analysis,Ian Goodfellow,Data Science,9780984899486,Microsoft Press,2017,English,258,4,6,M206,Member_210,2025-02-03,2025-02-18,Returned
+808,Introduction to Algorithms,Stuart Russell,Database,9780414833196,Microsoft Press,2019,English,779,5,13,M128,Member_199,2025-01-01,2025-01-16,Returned
+809,Python Programming,Andrew Ng,Database,9780696968076,Pearson,2015,English,707,3,7,M382,Member_481,2025-01-18,2025-02-02,Returned
+810,Operating System Concepts,John Smith,Database,9780579161281,Pearson,2015,English,533,10,7,M593,Member_413,2025-02-23,2025-03-10,Issued
+811,Machine Learning Guide,Jake VanderPlas,AI,9780336874637,Wiley,2016,English,236,7,5,M702,Member_90,2025-02-01,2025-02-16,Returned
+812,Web Development with Django,Stuart Russell,AI,9780812315514,OReilly,2024,English,369,9,13,M539,Member_90,2025-02-26,2025-03-13,Returned
+813,SQL for Beginners,John Smith,Algorithms,9780709809277,Microsoft Press,2020,English,623,9,7,M322,Member_207,2025-02-13,2025-02-28,Returned
+814,SQL for Beginners,Abraham Silberschatz,AI,9780868333953,Microsoft Press,2023,English,490,1,5,M691,Member_330,2025-01-02,2025-01-17,Issued
+815,Artificial Intelligence Basics,Stuart Russell,Programming,9780302426343,Wiley,2019,English,201,5,14,M912,Member_126,2025-01-21,2025-02-05,Issued
+816,Web Development with Django,Andrew Ng,Programming,9780274871895,Microsoft Press,2022,English,736,10,11,M198,Member_314,2025-02-22,2025-03-09,Returned
+817,Web Development with Django,Ian Goodfellow,Database,9780849170218,OReilly,2020,English,423,0,15,M712,Member_89,2025-01-17,2025-02-01,Returned
+818,Web Development with Django,Abraham Silberschatz,Algorithms,9780876981253,Wiley,2021,English,261,6,9,M393,Member_371,2025-02-18,2025-03-05,Issued
+819,Machine Learning Guide,John Smith,Database,9780517166402,Pearson,2024,English,776,5,7,M704,Member_158,2025-01-12,2025-01-27,Issued
+820,Python Programming,Stuart Russell,Database,9780990982143,MIT Press,2016,English,845,10,15,M404,Member_451,2025-02-28,2025-03-15,Issued
+821,Data Science Handbook,John Smith,Web,9780920592419,Wiley,2015,English,283,9,13,M841,Member_495,2025-02-03,2025-02-18,Issued
+822,SQL for Beginners,Stuart Russell,Data Science,9780282972150,Pearson,2019,English,795,9,11,M441,Member_398,2025-02-25,2025-03-12,Returned
+823,SQL for Beginners,John Smith,Database,9780964827321,Microsoft Press,2018,English,207,8,15,M792,Member_119,2025-01-15,2025-01-30,Issued
+824,Artificial Intelligence Basics,Wayne Winston,Web,9780321029705,Microsoft Press,2015,English,721,9,15,M612,Member_18,2025-02-27,2025-03-14,Issued
+825,SQL for Beginners,Wayne Winston,AI,9780715328772,Pearson,2020,English,701,9,7,M399,Member_119,2025-03-02,2025-03-17,Returned
+826,Artificial Intelligence Basics,John Smith,Algorithms,9780864401247,OReilly,2022,English,1144,10,11,M488,Member_250,2025-02-12,2025-02-27,Returned
+827,Data Science Handbook,Alan Beaulieu,Algorithms,9780676389661,Wiley,2022,English,311,9,7,M824,Member_71,2025-02-27,2025-03-14,Issued
+828,Data Science Handbook,Thomas H. Cormen,Programming,9780877861459,Wiley,2017,English,221,2,15,M818,Member_489,2025-02-26,2025-03-13,Issued
+829,Artificial Intelligence Basics,William Vincent,Programming,9780550346694,OReilly,2018,English,1173,2,10,M366,Member_111,2025-02-01,2025-02-16,Issued
+830,Operating System Concepts,Stuart Russell,Algorithms,9780636990141,Wiley,2018,English,304,6,14,M772,Member_110,2025-02-24,2025-03-11,Returned
+831,Operating System Concepts,Andrew Ng,Programming,9780453347766,MIT Press,2023,English,291,6,10,M473,Member_418,2025-02-20,2025-03-07,Returned
+832,Data Science Handbook,Wayne Winston,Data Science,9780211737721,Pearson,2023,English,719,1,15,M475,Member_366,2025-01-19,2025-02-03,Issued
+833,Machine Learning Guide,Abraham Silberschatz,Programming,9780219901576,MIT Press,2022,English,559,3,6,M547,Member_80,2025-02-23,2025-03-10,Issued
+834,Web Development with Django,Andrew Ng,Algorithms,9780908687132,Pearson,2019,English,401,7,6,M587,Member_147,2025-02-22,2025-03-09,Returned
+835,Data Science Handbook,William Vincent,Programming,9780520544447,OReilly,2016,English,794,10,7,M596,Member_60,2025-01-28,2025-02-12,Issued
+836,Artificial Intelligence Basics,Ian Goodfellow,AI,9780725703212,Microsoft Press,2024,English,541,4,5,M155,Member_460,2025-01-12,2025-01-27,Returned
+837,Machine Learning Guide,Thomas H. Cormen,Database,9780164160400,Pearson,2018,English,1176,9,10,M358,Member_116,2025-02-20,2025-03-07,Returned
+838,Machine Learning Guide,Ian Goodfellow,Data Science,9780712149308,Pearson,2024,English,846,9,9,M717,Member_73,2025-01-14,2025-01-29,Returned
+839,Data Science Handbook,Stuart Russell,Data Science,9780706138426,Microsoft Press,2017,English,971,9,15,M436,Member_494,2025-01-26,2025-02-10,Returned
+840,Data Science Handbook,William Vincent,Programming,9780494234634,OReilly,2023,English,232,0,14,M297,Member_176,2025-02-20,2025-03-07,Issued
+841,Deep Learning Basics,Stuart Russell,Programming,9780803381754,Microsoft Press,2017,English,769,0,5,M425,Member_318,2025-02-01,2025-02-16,Issued
+842,Machine Learning Guide,John Smith,AI,9780403870444,Wiley,2021,English,250,0,7,M519,Member_446,2025-02-24,2025-03-11,Issued
+843,Artificial Intelligence Basics,Andrew Ng,Web,9780409266218,OReilly,2016,English,269,8,11,M472,Member_145,2025-01-29,2025-02-13,Returned
+844,Web Development with Django,Alan Beaulieu,Data Science,9780473788679,Microsoft Press,2017,English,713,7,8,M599,Member_468,2025-01-21,2025-02-05,Issued
+845,Python Programming,Wayne Winston,Data Science,9780328788386,Pearson,2018,English,931,7,10,M146,Member_101,2025-02-09,2025-02-24,Returned
+846,Python Programming,William Vincent,AI,9780291051254,OReilly,2023,English,1090,4,6,M488,Member_497,2025-01-04,2025-01-19,Issued
+847,Data Science Handbook,John Smith,Web,9780991432442,Wiley,2023,English,1010,2,8,M417,Member_11,2025-02-08,2025-02-23,Issued
+848,Machine Learning Guide,Jake VanderPlas,Database,9780749737596,MIT Press,2024,English,724,1,7,M600,Member_366,2025-02-07,2025-02-22,Issued
+849,Python Programming,Abraham Silberschatz,Web,9780967616761,Wiley,2017,English,1180,7,10,M889,Member_285,2025-02-06,2025-02-21,Returned
+850,Artificial Intelligence Basics,Wayne Winston,AI,9780265592539,Pearson,2023,English,434,7,11,M149,Member_207,2025-02-09,2025-02-24,Issued
+851,Introduction to Algorithms,William Vincent,Algorithms,9780517701951,Wiley,2015,English,826,6,12,M853,Member_172,2025-01-21,2025-02-05,Returned
+852,Artificial Intelligence Basics,Jake VanderPlas,Algorithms,9780641216543,OReilly,2021,English,211,8,13,M370,Member_324,2025-02-22,2025-03-09,Returned
+853,SQL for Beginners,William Vincent,Algorithms,9780431213775,MIT Press,2023,English,280,3,10,M938,Member_218,2025-02-17,2025-03-04,Returned
+854,SQL for Beginners,Ian Goodfellow,Algorithms,9780526145658,Pearson,2018,English,1081,5,12,M693,Member_171,2025-01-06,2025-01-21,Returned
+855,Introduction to Algorithms,Jake VanderPlas,Programming,9780506361588,Pearson,2024,English,649,1,6,M142,Member_49,2025-02-11,2025-02-26,Returned
+856,Introduction to Algorithms,Jake VanderPlas,Data Science,9780725051531,Microsoft Press,2020,English,876,1,9,M155,Member_231,2025-01-16,2025-01-31,Issued
+857,Operating System Concepts,Wayne Winston,Data Science,9780811792310,OReilly,2020,English,498,9,12,M484,Member_273,2025-01-08,2025-01-23,Returned
+858,Python Programming,Andrew Ng,Database,9780956943417,Microsoft Press,2017,English,890,9,15,M690,Member_345,2025-01-18,2025-02-02,Issued
+859,Deep Learning Basics,Abraham Silberschatz,Web,9780673543725,MIT Press,2020,English,740,3,8,M932,Member_190,2025-01-26,2025-02-10,Issued
+860,Excel for Data Analysis,Andrew Ng,Web,9780356642707,MIT Press,2016,English,1131,7,13,M274,Member_238,2025-02-12,2025-02-27,Issued
+861,Artificial Intelligence Basics,Stuart Russell,Database,9780922835520,Wiley,2024,English,1027,3,8,M134,Member_191,2025-02-18,2025-03-05,Returned
+862,Introduction to Algorithms,Ian Goodfellow,Algorithms,9780129865651,OReilly,2017,English,1181,5,9,M631,Member_260,2025-01-10,2025-01-25,Returned
+863,Machine Learning Guide,Andrew Ng,Programming,9780655854416,Microsoft Press,2024,English,446,6,14,M207,Member_143,2025-02-12,2025-02-27,Issued
+864,Data Science Handbook,Stuart Russell,Data Science,9780968539686,Pearson,2018,English,1083,0,11,M112,Member_284,2025-01-17,2025-02-01,Returned
+865,Python Programming,Thomas H. Cormen,AI,9780789561877,MIT Press,2023,English,632,2,6,M141,Member_485,2025-03-02,2025-03-17,Issued
+866,Artificial Intelligence Basics,Andrew Ng,Web,9780267232109,Microsoft Press,2022,English,424,10,11,M233,Member_459,2025-02-21,2025-03-08,Returned
+867,Deep Learning Basics,Ian Goodfellow,Data Science,9780872964056,MIT Press,2019,English,516,3,10,M661,Member_67,2025-02-07,2025-02-22,Issued
+868,Data Science Handbook,Alan Beaulieu,Algorithms,9780246203613,Pearson,2021,English,632,9,15,M834,Member_49,2025-01-20,2025-02-04,Returned
+869,SQL for Beginners,John Smith,AI,9780810432289,Pearson,2015,English,1027,8,12,M276,Member_195,2025-01-30,2025-02-14,Issued
+870,Deep Learning Basics,Thomas H. Cormen,Algorithms,9780783965312,MIT Press,2021,English,475,6,9,M930,Member_413,2025-02-24,2025-03-11,Returned
+871,Excel for Data Analysis,John Smith,Data Science,9780191005679,Microsoft Press,2023,English,340,7,6,M931,Member_94,2025-01-16,2025-01-31,Returned
+872,Operating System Concepts,Alan Beaulieu,Web,9780285763281,Wiley,2019,English,1019,5,11,M396,Member_371,2025-01-15,2025-01-30,Returned
+873,Deep Learning Basics,Wayne Winston,Data Science,9780931813573,MIT Press,2019,English,530,4,13,M160,Member_124,2025-02-21,2025-03-08,Returned
+874,Introduction to Algorithms,Wayne Winston,Programming,9780699814000,Pearson,2021,English,461,2,7,M253,Member_199,2025-02-06,2025-02-21,Issued
+875,Python Programming,Jake VanderPlas,Database,9780566349345,Pearson,2022,English,673,10,11,M972,Member_499,2025-02-26,2025-03-13,Issued
+876,Operating System Concepts,Ian Goodfellow,AI,9780468192331,Wiley,2017,English,255,8,12,M370,Member_396,2025-01-20,2025-02-04,Issued
+877,Operating System Concepts,John Smith,Database,9780387079258,Wiley,2015,English,1034,4,12,M828,Member_210,2025-01-10,2025-01-25,Issued
+878,Python Programming,Thomas H. Cormen,Data Science,9780821010607,Pearson,2021,English,963,10,9,M978,Member_484,2025-02-25,2025-03-12,Issued
+879,Operating System Concepts,John Smith,Web,9780138881415,Pearson,2020,English,764,0,10,M443,Member_223,2025-03-02,2025-03-17,Returned
+880,Excel for Data Analysis,Alan Beaulieu,Database,9780539481290,Pearson,2016,English,796,4,14,M539,Member_32,2025-01-29,2025-02-13,Issued
+881,Operating System Concepts,Wayne Winston,Database,9780783477380,OReilly,2020,English,1102,5,6,M864,Member_8,2025-02-01,2025-02-16,Issued
+882,Python Programming,Alan Beaulieu,Algorithms,9780861278639,MIT Press,2020,English,636,4,9,M109,Member_109,2025-02-03,2025-02-18,Returned
+883,Operating System Concepts,Andrew Ng,Algorithms,9780199268029,Microsoft Press,2019,English,1200,4,5,M668,Member_141,2025-01-13,2025-01-28,Returned
+884,Machine Learning Guide,Alan Beaulieu,Web,9780124043641,Pearson,2022,English,464,2,6,M943,Member_142,2025-02-20,2025-03-07,Issued
+885,Operating System Concepts,Alan Beaulieu,Database,9780560793632,Pearson,2015,English,337,7,14,M612,Member_448,2025-01-03,2025-01-18,Returned
+886,Deep Learning Basics,Wayne Winston,Data Science,9780429778592,Pearson,2018,English,1138,0,15,M962,Member_282,2025-02-20,2025-03-07,Returned
+887,SQL for Beginners,Stuart Russell,Programming,9780762273481,Microsoft Press,2020,English,1189,3,11,M373,Member_304,2025-02-09,2025-02-24,Returned
+888,Artificial Intelligence Basics,Abraham Silberschatz,Data Science,9780674032005,OReilly,2017,English,308,3,5,M117,Member_100,2025-02-02,2025-02-17,Returned
+889,Machine Learning Guide,Jake VanderPlas,AI,9780384583571,Wiley,2018,English,782,4,15,M767,Member_468,2025-01-15,2025-01-30,Returned
+890,Machine Learning Guide,Thomas H. Cormen,Data Science,9780784987601,OReilly,2018,English,564,9,5,M175,Member_381,2025-01-24,2025-02-08,Issued
+891,SQL for Beginners,Stuart Russell,Programming,9780634052630,Wiley,2016,English,987,0,10,M385,Member_216,2025-02-21,2025-03-08,Returned
+892,Excel for Data Analysis,Thomas H. Cormen,Database,9780810395921,Pearson,2019,English,535,3,10,M647,Member_386,2025-01-01,2025-01-16,Issued
+893,Introduction to Algorithms,William Vincent,Programming,9780310158535,Pearson,2021,English,709,3,9,M672,Member_214,2025-01-30,2025-02-14,Issued
+894,Machine Learning Guide,John Smith,Database,9780764630875,Wiley,2016,English,1083,3,12,M429,Member_36,2025-02-10,2025-02-25,Returned
+895,Artificial Intelligence Basics,William Vincent,Algorithms,9780729070952,Pearson,2018,English,545,4,11,M752,Member_452,2025-01-21,2025-02-05,Issued
+896,Machine Learning Guide,Stuart Russell,Database,9780455022533,Microsoft Press,2024,English,593,4,8,M390,Member_380,2025-02-06,2025-02-21,Issued
+897,Python Programming,Alan Beaulieu,Algorithms,9780526014088,Microsoft Press,2018,English,465,2,5,M559,Member_339,2025-01-13,2025-01-28,Returned
+898,Machine Learning Guide,John Smith,Database,9780540878336,MIT Press,2015,English,938,1,8,M244,Member_293,2025-03-02,2025-03-17,Returned
+899,SQL for Beginners,Andrew Ng,Programming,9780911393682,OReilly,2015,English,967,6,13,M442,Member_376,2025-02-02,2025-02-17,Returned
+900,Excel for Data Analysis,Wayne Winston,Web,9780734741826,MIT Press,2022,English,1021,9,13,M837,Member_236,2025-01-15,2025-01-30,Issued
+901,Machine Learning Guide,Stuart Russell,Programming,9780116033487,Pearson,2021,English,1180,7,5,M896,Member_114,2025-02-25,2025-03-12,Issued
+902,Deep Learning Basics,William Vincent,Algorithms,9780565371694,Microsoft Press,2021,English,1163,5,9,M602,Member_319,2025-02-13,2025-02-28,Issued
+903,Web Development with Django,William Vincent,Algorithms,9780468006061,Pearson,2023,English,884,5,5,M505,Member_101,2025-02-13,2025-02-28,Issued
+904,Artificial Intelligence Basics,Andrew Ng,Algorithms,9780444387906,Wiley,2024,English,700,2,7,M583,Member_376,2025-02-21,2025-03-08,Issued
+905,Web Development with Django,John Smith,Programming,9780455371379,Microsoft Press,2020,English,798,0,14,M868,Member_494,2025-01-08,2025-01-23,Returned
+906,Data Science Handbook,Stuart Russell,AI,9780585720027,Microsoft Press,2022,English,878,2,8,M551,Member_205,2025-01-20,2025-02-04,Returned
+907,SQL for Beginners,William Vincent,Programming,9780188091838,MIT Press,2018,English,479,6,8,M812,Member_227,2025-03-01,2025-03-16,Returned
+908,Artificial Intelligence Basics,Stuart Russell,Database,9780337522083,Pearson,2021,English,866,3,15,M904,Member_337,2025-01-08,2025-01-23,Issued
+909,Introduction to Algorithms,William Vincent,Programming,9780131082299,OReilly,2019,English,930,5,12,M590,Member_486,2025-02-01,2025-02-16,Returned
+910,Operating System Concepts,Andrew Ng,Web,9780931804195,Pearson,2019,English,996,2,13,M380,Member_196,2025-01-03,2025-01-18,Returned
+911,Machine Learning Guide,Alan Beaulieu,AI,9780620387287,OReilly,2016,English,1191,8,7,M790,Member_464,2025-01-03,2025-01-18,Issued
+912,Deep Learning Basics,Wayne Winston,Algorithms,9780751076004,OReilly,2016,English,994,9,8,M432,Member_476,2025-01-31,2025-02-15,Returned
+913,Operating System Concepts,Jake VanderPlas,AI,9780985484632,OReilly,2024,English,837,3,5,M377,Member_87,2025-02-17,2025-03-04,Issued
+914,Python Programming,John Smith,Database,9780440209511,Wiley,2018,English,764,8,5,M192,Member_322,2025-01-31,2025-02-15,Returned
+915,Data Science Handbook,Abraham Silberschatz,AI,9780287958855,OReilly,2022,English,699,0,6,M228,Member_427,2025-02-21,2025-03-08,Issued
+916,Artificial Intelligence Basics,Wayne Winston,Algorithms,9780886214050,Microsoft Press,2016,English,291,7,5,M971,Member_436,2025-03-02,2025-03-17,Issued
+917,Python Programming,Wayne Winston,Database,9780516570297,Pearson,2016,English,1038,7,11,M618,Member_14,2025-01-31,2025-02-15,Issued
+918,Data Science Handbook,Jake VanderPlas,Database,9780923976925,MIT Press,2024,English,851,8,13,M996,Member_360,2025-01-25,2025-02-09,Returned
+919,Introduction to Algorithms,Alan Beaulieu,Algorithms,9780269055797,Wiley,2019,English,582,10,7,M682,Member_102,2025-02-24,2025-03-11,Issued
+920,Machine Learning Guide,Stuart Russell,AI,9780270075364,Wiley,2015,English,870,3,7,M817,Member_331,2025-02-06,2025-02-21,Returned
+921,Deep Learning Basics,John Smith,Web,9780468609462,Pearson,2020,English,1068,8,5,M748,Member_475,2025-02-07,2025-02-22,Issued
+922,Artificial Intelligence Basics,William Vincent,Web,9780662439601,MIT Press,2020,English,641,7,12,M814,Member_63,2025-02-04,2025-02-19,Returned
+923,Deep Learning Basics,Alan Beaulieu,Data Science,9780117259040,Wiley,2018,English,698,5,6,M851,Member_418,2025-02-16,2025-03-03,Returned
+924,Introduction to Algorithms,Andrew Ng,Web,9780574231859,Microsoft Press,2018,English,759,9,14,M893,Member_396,2025-02-23,2025-03-10,Issued
+925,Excel for Data Analysis,Wayne Winston,Data Science,9780391229962,OReilly,2023,English,959,2,5,M928,Member_3,2025-01-27,2025-02-11,Returned
+926,Operating System Concepts,Abraham Silberschatz,Database,9780537449818,Wiley,2016,English,961,8,9,M211,Member_228,2025-01-25,2025-02-09,Issued
+927,Web Development with Django,Stuart Russell,Data Science,9780377522614,Pearson,2018,English,777,2,13,M178,Member_49,2025-01-24,2025-02-08,Returned
+928,Data Science Handbook,John Smith,Data Science,9780852941567,OReilly,2020,English,302,0,6,M734,Member_196,2025-02-14,2025-03-01,Returned
+929,Operating System Concepts,Andrew Ng,Programming,9780602569731,OReilly,2015,English,798,10,8,M428,Member_108,2025-01-06,2025-01-21,Returned
+930,Excel for Data Analysis,Abraham Silberschatz,AI,9780567166629,MIT Press,2024,English,643,2,10,M474,Member_258,2025-01-28,2025-02-12,Issued
+931,Excel for Data Analysis,William Vincent,Algorithms,9780156055898,MIT Press,2016,English,986,1,7,M683,Member_165,2025-01-29,2025-02-13,Returned
+932,Introduction to Algorithms,Stuart Russell,Database,9780240118555,Wiley,2018,English,681,3,5,M791,Member_351,2025-02-07,2025-02-22,Returned
+933,SQL for Beginners,William Vincent,Database,9780330570879,OReilly,2017,English,1016,2,5,M459,Member_113,2025-01-27,2025-02-11,Issued
+934,Artificial Intelligence Basics,Wayne Winston,Algorithms,9780323325003,OReilly,2024,English,301,2,8,M125,Member_192,2025-01-24,2025-02-08,Issued
+935,Web Development with Django,John Smith,Algorithms,9780565953757,OReilly,2021,English,524,5,8,M534,Member_108,2025-02-02,2025-02-17,Returned
+936,Deep Learning Basics,Alan Beaulieu,Database,9780238055033,MIT Press,2021,English,621,1,8,M258,Member_30,2025-01-26,2025-02-10,Issued
+937,Artificial Intelligence Basics,Andrew Ng,AI,9780916208803,MIT Press,2021,English,276,4,13,M844,Member_389,2025-02-20,2025-03-07,Returned
+938,Deep Learning Basics,Stuart Russell,Data Science,9780463117010,OReilly,2020,English,713,7,9,M896,Member_66,2025-01-03,2025-01-18,Issued
+939,SQL for Beginners,Thomas H. Cormen,Programming,9780978021151,MIT Press,2019,English,578,6,12,M968,Member_211,2025-01-23,2025-02-07,Returned
+940,Operating System Concepts,Abraham Silberschatz,Database,9780355723252,OReilly,2019,English,787,6,14,M711,Member_110,2025-02-17,2025-03-04,Issued
+941,SQL for Beginners,William Vincent,Programming,9780201431933,Microsoft Press,2020,English,497,3,15,M822,Member_317,2025-01-31,2025-02-15,Issued
+942,Machine Learning Guide,Wayne Winston,Web,9780602215460,Microsoft Press,2018,English,348,2,5,M464,Member_289,2025-01-20,2025-02-04,Returned
+943,Data Science Handbook,Ian Goodfellow,AI,9780157156905,MIT Press,2020,English,1147,8,11,M233,Member_88,2025-02-20,2025-03-07,Returned
+944,Machine Learning Guide,John Smith,Database,9780819994129,MIT Press,2024,English,305,9,6,M215,Member_193,2025-02-25,2025-03-12,Issued
+945,Data Science Handbook,Jake VanderPlas,AI,9780750936544,OReilly,2018,English,814,2,12,M972,Member_480,2025-03-01,2025-03-16,Issued
+946,Python Programming,John Smith,AI,9780138980943,MIT Press,2015,English,1174,4,10,M389,Member_213,2025-01-22,2025-02-06,Issued
+947,Machine Learning Guide,Thomas H. Cormen,Data Science,9780228190900,OReilly,2019,English,583,10,6,M134,Member_232,2025-01-16,2025-01-31,Issued
+948,SQL for Beginners,Wayne Winston,Algorithms,9780152832246,Pearson,2019,English,878,1,9,M785,Member_394,2025-01-27,2025-02-11,Returned
+949,Operating System Concepts,William Vincent,Data Science,9780149602095,OReilly,2017,English,482,3,9,M588,Member_70,2025-02-11,2025-02-26,Issued
+950,Deep Learning Basics,John Smith,Database,9780600416588,Microsoft Press,2023,English,426,6,8,M727,Member_74,2025-01-28,2025-02-12,Returned
+951,Deep Learning Basics,Alan Beaulieu,Programming,9780663157555,MIT Press,2016,English,426,2,11,M403,Member_176,2025-01-16,2025-01-31,Issued
+952,Python Programming,Wayne Winston,Web,9780441030577,Pearson,2015,English,1024,9,5,M824,Member_75,2025-02-14,2025-03-01,Issued
+953,Deep Learning Basics,William Vincent,Algorithms,9780875783760,MIT Press,2018,English,1162,5,7,M994,Member_419,2025-01-26,2025-02-10,Returned
+954,Artificial Intelligence Basics,Andrew Ng,Web,9780728314880,Pearson,2022,English,449,2,9,M623,Member_229,2025-01-30,2025-02-14,Returned
+955,Web Development with Django,Jake VanderPlas,AI,9780730639084,MIT Press,2021,English,538,9,12,M153,Member_56,2025-02-25,2025-03-12,Returned
+956,Excel for Data Analysis,Jake VanderPlas,Database,9780346329191,MIT Press,2015,English,324,10,15,M868,Member_197,2025-01-19,2025-02-03,Returned
+957,SQL for Beginners,John Smith,AI,9780275152937,OReilly,2020,English,954,2,5,M822,Member_316,2025-01-14,2025-01-29,Returned
+958,Introduction to Algorithms,Stuart Russell,Web,9780250834998,Wiley,2022,English,275,9,14,M570,Member_7,2025-02-18,2025-03-05,Returned
+959,Artificial Intelligence Basics,Abraham Silberschatz,Database,9780267010001,Wiley,2019,English,720,0,11,M560,Member_374,2025-01-30,2025-02-14,Returned
+960,Operating System Concepts,Thomas H. Cormen,Database,9780694879221,OReilly,2024,English,896,9,10,M401,Member_293,2025-01-09,2025-01-24,Returned
+961,Deep Learning Basics,Andrew Ng,Programming,9780592644241,Microsoft Press,2018,English,214,2,11,M740,Member_341,2025-02-08,2025-02-23,Returned
+962,Artificial Intelligence Basics,Abraham Silberschatz,Programming,9780894384308,Microsoft Press,2019,English,1071,7,5,M581,Member_255,2025-02-06,2025-02-21,Issued
+963,Machine Learning Guide,William Vincent,Database,9780178953102,Microsoft Press,2016,English,809,10,8,M201,Member_298,2025-02-02,2025-02-17,Returned
+964,Introduction to Algorithms,William Vincent,Web,9780418052974,Pearson,2017,English,804,2,14,M537,Member_304,2025-01-04,2025-01-19,Issued
+965,Python Programming,Abraham Silberschatz,Programming,9780449377845,OReilly,2018,English,1055,5,15,M488,Member_248,2025-01-26,2025-02-10,Issued
+966,SQL for Beginners,Abraham Silberschatz,Data Science,9780830743320,Microsoft Press,2015,English,352,1,9,M396,Member_295,2025-01-11,2025-01-26,Returned
+967,Excel for Data Analysis,Thomas H. Cormen,Algorithms,9780311456259,OReilly,2016,English,813,0,12,M141,Member_7,2025-02-10,2025-02-25,Returned
+968,Artificial Intelligence Basics,Wayne Winston,Web,9780926342688,Wiley,2024,English,207,3,9,M200,Member_28,2025-01-05,2025-01-20,Returned
+969,SQL for Beginners,William Vincent,Algorithms,9780888627895,Microsoft Press,2018,English,976,9,8,M461,Member_472,2025-01-13,2025-01-28,Returned
+970,Machine Learning Guide,Jake VanderPlas,Algorithms,9780314621079,Microsoft Press,2024,English,392,0,11,M933,Member_397,2025-01-13,2025-01-28,Issued
+971,Data Science Handbook,John Smith,Web,9780214433562,Pearson,2023,English,819,3,13,M928,Member_396,2025-02-02,2025-02-17,Returned
+972,Artificial Intelligence Basics,Thomas H. Cormen,Web,9780571667764,MIT Press,2015,English,435,9,12,M982,Member_411,2025-02-15,2025-03-02,Returned
+973,Artificial Intelligence Basics,Ian Goodfellow,Algorithms,9780306090898,Wiley,2024,English,1200,1,12,M352,Member_314,2025-02-25,2025-03-12,Issued
+974,Excel for Data Analysis,William Vincent,Database,9780860187498,Pearson,2023,English,637,4,6,M935,Member_226,2025-01-29,2025-02-13,Issued
+975,Deep Learning Basics,Andrew Ng,Data Science,9780385988161,MIT Press,2024,English,297,9,6,M947,Member_425,2025-01-24,2025-02-08,Returned
+976,Web Development with Django,John Smith,Algorithms,9780974473511,MIT Press,2016,English,247,0,9,M471,Member_469,2025-01-23,2025-02-07,Issued
+977,Excel for Data Analysis,Alan Beaulieu,Algorithms,9780189837575,MIT Press,2023,English,361,7,13,M925,Member_361,2025-02-25,2025-03-12,Issued
+978,Operating System Concepts,Abraham Silberschatz,Database,9780138382920,MIT Press,2016,English,338,3,15,M366,Member_472,2025-01-05,2025-01-20,Returned
+979,Introduction to Algorithms,Abraham Silberschatz,AI,9780757280713,Microsoft Press,2020,English,1122,7,13,M253,Member_204,2025-02-16,2025-03-03,Issued
+980,SQL for Beginners,Andrew Ng,AI,9780923675308,Microsoft Press,2015,English,239,2,8,M258,Member_239,2025-02-24,2025-03-11,Issued
+981,Artificial Intelligence Basics,Ian Goodfellow,Database,9780670148649,Wiley,2017,English,542,6,10,M965,Member_359,2025-02-27,2025-03-14,Issued
+982,Web Development with Django,Jake VanderPlas,Database,9780312971497,OReilly,2019,English,732,0,9,M222,Member_358,2025-01-07,2025-01-22,Returned
+983,Web Development with Django,Wayne Winston,Database,9780102004805,Wiley,2017,English,1134,5,12,M711,Member_206,2025-01-03,2025-01-18,Issued
+984,Web Development with Django,John Smith,AI,9780642341357,Pearson,2020,English,1111,8,12,M607,Member_217,2025-01-20,2025-02-04,Issued
+985,Machine Learning Guide,William Vincent,Algorithms,9780326728002,MIT Press,2018,English,230,3,9,M162,Member_107,2025-01-04,2025-01-19,Returned
+986,Python Programming,Stuart Russell,Data Science,9780523436977,Wiley,2021,English,545,8,7,M767,Member_298,2025-02-13,2025-02-28,Issued
+987,SQL for Beginners,Abraham Silberschatz,Programming,9780544706483,MIT Press,2016,English,726,3,10,M265,Member_407,2025-01-06,2025-01-21,Issued
+988,Excel for Data Analysis,Ian Goodfellow,Algorithms,9780656568636,Microsoft Press,2018,English,759,2,6,M651,Member_192,2025-01-13,2025-01-28,Issued
+989,Operating System Concepts,Stuart Russell,Algorithms,9780288481545,MIT Press,2024,English,943,4,8,M963,Member_210,2025-01-17,2025-02-01,Issued
+990,Deep Learning Basics,John Smith,Database,9780439168608,Wiley,2023,English,376,5,14,M115,Member_73,2025-01-30,2025-02-14,Issued
+991,SQL for Beginners,Andrew Ng,Algorithms,9780479191966,Microsoft Press,2019,English,1061,10,12,M903,Member_344,2025-01-28,2025-02-12,Returned
+992,Introduction to Algorithms,Andrew Ng,AI,9780579515339,Wiley,2019,English,295,10,7,M858,Member_369,2025-01-06,2025-01-21,Returned
+993,Excel for Data Analysis,Alan Beaulieu,Algorithms,9780593943812,Microsoft Press,2016,English,758,5,13,M877,Member_298,2025-01-19,2025-02-03,Issued
+994,Machine Learning Guide,William Vincent,Database,9780928068867,Microsoft Press,2024,English,722,1,14,M648,Member_45,2025-01-02,2025-01-17,Issued
+995,Machine Learning Guide,Alan Beaulieu,Web,9780838884815,Pearson,2020,English,1075,8,11,M492,Member_147,2025-02-13,2025-02-28,Issued
+996,Artificial Intelligence Basics,Alan Beaulieu,Algorithms,9780456449475,Pearson,2019,English,703,10,10,M212,Member_417,2025-03-01,2025-03-16,Returned
+997,Deep Learning Basics,William Vincent,AI,9780903293514,Wiley,2018,English,1056,7,6,M302,Member_364,2025-02-09,2025-02-24,Returned
+998,Deep Learning Basics,Ian Goodfellow,Algorithms,9780134528198,MIT Press,2016,English,669,1,13,M274,Member_42,2025-01-17,2025-02-01,Returned
+999,Excel for Data Analysis,Wayne Winston,Algorithms,9780461973284,OReilly,2017,English,292,6,14,M212,Member_143,2025-01-15,2025-01-30,Returned
+1000,SQL for Beginners,William Vincent,AI,9780789163581,Pearson,2021,English,1036,1,13,M222,Member_301,2025-02-22,2025-03-09,Returned
