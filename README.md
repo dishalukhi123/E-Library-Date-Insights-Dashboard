@@ -1,10 +1,31 @@
 # 📚 E-Library Data Insights Dashboard
 
-✨ A Python-based **Data Analytics Dashboard** that visualizes and analyzes
-library borrowing behavior using **Pandas, NumPy, Matplotlib, and Seaborn**.
+✨ A **Python-based Data Analytics Dashboard** built using  
+**Object-Oriented Programming (OOP)** and **NumPy Arrays**  
+to analyze and visualize **E-Library transaction data**.
 
-This project provides clear insights into **book popularity**, **borrowing duration**,  
-**genre distribution**, and **time-based borrowing activity**.
+This project transforms raw library data into **meaningful insights**
+using statistics and visual dashboards.
+
+---
+
+## 🧠 Core Concepts Used
+
+### 🔹 Object-Oriented Programming (OOP)
+- `LibraryDashboard` class for modular design
+- Encapsulation of:
+  - Data loading
+  - Data cleaning
+  - Statistical analysis
+  - Filtering logic
+- Improves **code reusability, readability, and scalability**
+
+### 🔹 NumPy Arrays
+- Borrowing duration data converted to NumPy arrays
+- Used for:
+  - Mean calculation
+  - Maximum & minimum duration
+  - Efficient numerical operations
 
 ---
 
